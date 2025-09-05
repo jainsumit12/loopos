@@ -65,7 +65,26 @@ define( 'WP_CACHE_KEY_SALT', '7q0oRAXAyQTFxdeeSoUm7rHglrzXmS2PFadJCVt0FB1c13HWgu
 $table_prefix = 'wp_';
 
 
-
+/**
+ * Security hardening: disable theme/plugin editors in wp-admin
+ * and enable core minor auto-updates. Also route debug to a log
+ * without displaying errors publicly.
+ */
+if ( ! defined( 'DISALLOW_FILE_EDIT' ) ) {
+    define( 'DISALLOW_FILE_EDIT', true );
+}
+if ( ! defined( 'WP_AUTO_UPDATE_CORE' ) ) {
+    define( 'WP_AUTO_UPDATE_CORE', 'minor' );
+}
+if ( ! defined( 'WP_DEBUG' ) ) {
+    define( 'WP_DEBUG', false );
+}
+if ( ! defined( 'WP_DEBUG_DISPLAY' ) ) {
+    define( 'WP_DEBUG_DISPLAY', false );
+}
+if ( ! defined( 'WP_DEBUG_LOG' ) ) {
+    define( 'WP_DEBUG_LOG', true );
+}
 
 /* That's all, stop editing! Happy publishing. */
 
@@ -76,4 +95,3 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
-
