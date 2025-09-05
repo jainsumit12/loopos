@@ -1,0 +1,1125 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Restolux-Restaurant Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Metform",
+            "screenshot": "screenshots\/contact-metform.png",
+            "source": "templates\/contact-metform.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/restolux\/template-kit\/contact-metform\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.png",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/restolux\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.png",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/restolux\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.png",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/restolux\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "News",
+            "screenshot": "screenshots\/news.png",
+            "source": "templates\/news.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/restolux\/template-kit\/news\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.png",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/restolux\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Menu",
+            "screenshot": "screenshots\/our-menu.png",
+            "source": "templates\/our-menu.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/restolux\/template-kit\/our-menu\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.png",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/restolux\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.png",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/restolux\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.png",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/restolux\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/restolux\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/restolux\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "MetForm",
+            "version": "3.8.0",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.17.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.17",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        }
+    ],
+    "images": [
+        {
+            "filename": "SubHero.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/SubHero-800x211.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 22713,
+            "dimensions": [
+                1236,
+                326
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Contact-Foto.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Contact-Foto.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 76614,
+            "dimensions": [
+                416,
+                725
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-handsome-chef-in-white-uniform-smiling--EEE3T8R"
+        },
+        {
+            "filename": "Empat404.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Empat404.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 3313,
+            "dimensions": [
+                305,
+                374
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "404.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/404.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 238346,
+            "dimensions": [
+                359,
+                374
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/plate-of-asian-food-FGXM9UT"
+        },
+        {
+            "filename": "Chef-foto-midle.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Chef-foto-midle.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 176944,
+            "dimensions": [
+                319,
+                581
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-handsome-chef-in-white-uniform-smiling--EEE3T8R"
+        },
+        {
+            "filename": "Left-gradient.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Left-gradient.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 32406,
+            "dimensions": [
+                297,
+                161
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Chef-foto-right.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Chef-foto-right.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 145646,
+            "dimensions": [
+                297,
+                477
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-handsome-chef-in-white-uniform-smiling--EEE3T8R"
+        },
+        {
+            "filename": "Team-foto.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Team-foto.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 124502,
+            "dimensions": [
+                261,
+                455
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-handsome-chef-in-white-uniform-smiling--EEE3T8R"
+        },
+        {
+            "filename": "Chef-foto-left.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Chef-foto-left.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 131524,
+            "dimensions": [
+                321,
+                458
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-handsome-chef-in-white-uniform-smiling--EEE3T8R"
+        },
+        {
+            "filename": "Foto-Team2.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Foto-Team2.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 111713,
+            "dimensions": [
+                303,
+                477
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chef-with-a-frying-pan-in-his-hands-kitchenware-re-L599QQU"
+        },
+        {
+            "filename": "Foto-Team4.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Foto-Team4.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 111177,
+            "dimensions": [
+                303,
+                477
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-chef-holding-pan-and-cap-while-looking-at-HCXPBRW"
+        },
+        {
+            "filename": "Foto-Team3.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Foto-Team3.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 87676,
+            "dimensions": [
+                303,
+                477
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chef-professional-restaurant-self-confidence-cuisi-4A53ASC"
+        },
+        {
+            "filename": "Special-Menu-BG.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Special-Menu-BG-800x640.png",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 114161,
+            "dimensions": [
+                1301,
+                1040
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-6V4PB52"
+        },
+        {
+            "filename": "Cloud-Bg1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Cloud-Bg1-800x60.png",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                }
+            ],
+            "filesize": 6042,
+            "dimensions": [
+                1300,
+                97
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Special-menu-1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Special-menu-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 88034,
+            "dimensions": [
+                199,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/plate-of-asian-food-PYEJ7GD"
+        },
+        {
+            "filename": "Special-menu-New.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Special-menu-New.png",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 78965,
+            "dimensions": [
+                416,
+                416
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/plate-of-chinese-food-MRPARM9"
+        },
+        {
+            "filename": "Special-menu-2.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Special-menu-2.png",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 88934,
+            "dimensions": [
+                196,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/plate-of-asian-food-GF8U9TQ"
+        },
+        {
+            "filename": "Food-Menus1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Food-Menus1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                }
+            ],
+            "filesize": 76359,
+            "dimensions": [
+                190,
+                190
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bowl-of-asian-food-89RSKYD"
+        },
+        {
+            "filename": "Food-Menus2.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Food-Menus2.png",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                }
+            ],
+            "filesize": 77476,
+            "dimensions": [
+                196,
+                207
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/plate-of-asian-food-FGXM9UT"
+        },
+        {
+            "filename": "Icon-Service5.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Icon-Service5.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1561,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/restaurant-icon-7SNEMHD"
+        },
+        {
+            "filename": "Icon-Service4.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Icon-Service4.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1743,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/restaurant-icon-7SNEMHD"
+        },
+        {
+            "filename": "Icon-Service1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Icon-Service1.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1351,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/restaurant-icon-7SNEMHD"
+        },
+        {
+            "filename": "Midle-gradient.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Midle-gradient.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 37032,
+            "dimensions": [
+                319,
+                175
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Icon-Service2.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Icon-Service2.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1664,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/restaurant-icon-7SNEMHD"
+        },
+        {
+            "filename": "Icon-Service3.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Icon-Service3.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 2143,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/restaurant-icon-7SNEMHD"
+        },
+        {
+            "filename": "Bg-Abou-Us.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Bg-Abou-Us-800x518.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 18031,
+            "dimensions": [
+                1236,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-12.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Group-12.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 101577,
+            "dimensions": [
+                291,
+                498
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/orange-juice-S6TQ7HN"
+        },
+        {
+            "filename": "Arrow-2.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Arrow-2.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1358,
+            "dimensions": [
+                24,
+                120
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Frice.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Frice.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 43877,
+            "dimensions": [
+                166,
+                188
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/take-out-food-PE6PP46"
+        },
+        {
+            "filename": "Foreground-About-us.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Foreground-About-us.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 73534,
+            "dimensions": [
+                422,
+                429
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/restaurant-food-isolated-seafood-salad-with-calama-PNCGLCS"
+        },
+        {
+            "filename": "About-Us-Image2.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/About-Us-Image2.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 159229,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/closeup-image-of-a-female-chef-cooking-and-holding-UUMD5J5"
+        },
+        {
+            "filename": "About-Us-Image1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/About-Us-Image1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 146662,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hand-of-young-male-chef-putting-aromatic-herb-on-t-34NXTC6"
+        },
+        {
+            "filename": "Freid-Chinese.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Freid-Chinese.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 22147,
+            "dimensions": [
+                192,
+                132
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fried-chinese-traditional-spring-rolls-food-in-cer-MGTBCND"
+        },
+        {
+            "filename": "Healty-food.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Healty-food.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 24241,
+            "dimensions": [
+                132,
+                132
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/healthy-food-in-heart-shape-S94XN6X"
+        },
+        {
+            "filename": "Chef-Why-Chose-us.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Chef-Why-Chose-us.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 28895,
+            "dimensions": [
+                132,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/confident-chef-SE4292W"
+        },
+        {
+            "filename": "Hero-image.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Hero-image.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 180122,
+            "dimensions": [
+                308,
+                321
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/plate-of-asian-food-FGXM9UT"
+        },
+        {
+            "filename": "Hero.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Hero.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 12925,
+            "dimensions": [
+                152,
+                102
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-6V4PB52"
+        },
+        {
+            "filename": "Hero-chf-hero.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Hero-chf-hero.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 116097,
+            "dimensions": [
+                438,
+                561
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/young-male-chef-with-raised-hand-flying-and-lookin-4XNCBQH"
+        },
+        {
+            "filename": "Arrow-Icon-hero.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Arrow-Icon-hero.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 551,
+            "dimensions": [
+                40,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Profile-Testi-1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Profile-Testi-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 137932,
+            "dimensions": [
+                356,
+                338
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/composite-collage-of-happy-diverse-multicultural-y-G8UCHFH"
+        },
+        {
+            "filename": "Profile-Testi-2.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Profile-Testi-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 137879,
+            "dimensions": [
+                356,
+                338
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/composite-collage-of-happy-diverse-multicultural-y-G8UCHFH"
+        },
+        {
+            "filename": "Profile-Testi-3.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Profile-Testi-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 108735,
+            "dimensions": [
+                356,
+                338
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/composite-collage-of-happy-diverse-multicultural-y-G8UCHFH"
+        },
+        {
+            "filename": "Background-Our-Chef.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Background-Our-Chef-800x181.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 63821,
+            "dimensions": [
+                1300,
+                294
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/drink-cocktail-with-pineapple-PMVX8CC"
+        },
+        {
+            "filename": "Booking-BG-Fixed-1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Booking-BG-Fixed-1-800x985.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 166999,
+            "dimensions": [
+                1300,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-DGJVPLL"
+        }
+    ]
+}

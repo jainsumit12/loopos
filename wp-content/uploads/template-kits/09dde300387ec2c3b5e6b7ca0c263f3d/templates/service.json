@@ -1,0 +1,1256 @@
+{
+    "version": "0.4",
+    "title": "Service",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "6e3e6e2e",
+            "settings": {
+                "flex_direction": "column",
+                "padding": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "10",
+                    "bottom": "40",
+                    "left": "10",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [],
+                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                "premium_tooltip_position": "top,bottom"
+            },
+            "elements": [
+                {
+                    "id": "74a721ee",
+                    "settings": {
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/SubHero.png",
+                            "id": 520,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_position": "center center",
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "40",
+                            "bottom": "40",
+                            "left": "40",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "80",
+                            "right": "10",
+                            "bottom": "80",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=accent"
+                        },
+                        "background_position_tablet": "center right",
+                        "background_size_tablet": "cover"
+                    },
+                    "elements": [
+                        {
+                            "id": "6c875f28",
+                            "settings": {
+                                "title": "Service",
+                                "align": "center",
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=e679251",
+                                    "typography_typography": "globals\/typography?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "44446aad",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.\u00a0<\/p>",
+                                "align": "center",
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=e679251",
+                                    "typography_typography": "globals\/typography?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "1460bf64",
+            "settings": {
+                "flex_direction": "column",
+                "background_background": "classic",
+                "background_image": {
+                    "id": "",
+                    "url": ""
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [],
+                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                "premium_tooltip_position": "top,bottom",
+                "shape_divider_bottom_width": {
+                    "unit": "%",
+                    "size": 117,
+                    "sizes": []
+                },
+                "shape_divider_bottom_height": {
+                    "unit": "px",
+                    "size": 245,
+                    "sizes": []
+                },
+                "shape_divider_bottom_negative": "yes",
+                "__globals__": {
+                    "shape_divider_bottom_color": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "3f64fce9",
+                    "settings": {
+                        "title": "Our Service",
+                        "align": "center",
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "__globals__": {
+                            "typography_typography": "globals\/typography?id=secondary"
+                        },
+                        "_animation": "fadeInDown"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "25545e07",
+                    "settings": {
+                        "title": "A Symphony of Flavors",
+                        "align": "center",
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "_animation": "fadeInUp"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "6b527986",
+                    "settings": {
+                        "text": "Custom Service",
+                        "align": "center",
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "_animation": "fadeInUp"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "button",
+                    "elType": "widget"
+                },
+                {
+                    "id": "5eb3e31",
+                    "settings": {
+                        "flex_direction": "row",
+                        "padding": {
+                            "unit": "px",
+                            "top": "150",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "flex_gap_tablet": {
+                            "column": "2",
+                            "row": "2",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 2
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "10528e44",
+                            "settings": {
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "flex_gap": {
+                                    "column": "50",
+                                    "row": "50",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 50
+                                },
+                                "animation": "fadeInLeft",
+                                "flex_gap_mobile": {
+                                    "column": "10",
+                                    "row": "10",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 10
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "22150836",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Icon-Service5.png",
+                                            "id": 815,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Catering Service",
+                                        "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                        "image_size": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "32",
+                                            "bottom": "32",
+                                            "left": "32",
+                                            "isLinked": true
+                                        },
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 103.461
+                                        },
+                                        "_flex_size": "none",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_background_background": "classic",
+                                        "_border_border": "none",
+                                        "_border_width": {
+                                            "unit": "px",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "48",
+                                            "right": "48",
+                                            "bottom": "48",
+                                            "left": "48",
+                                            "isLinked": true
+                                        },
+                                        "_box_shadow_box_shadow_type": "yes",
+                                        "_box_shadow_box_shadow": {
+                                            "horizontal": 0,
+                                            "vertical": 10,
+                                            "blur": 30,
+                                            "spread": -15,
+                                            "color": "rgba(0,0,0,0.5)"
+                                        },
+                                        "__globals__": {
+                                            "_background_color": "globals\/colors?id=e679251",
+                                            "title_typography_typography": "globals\/typography?id=117fb2f",
+                                            "_border_color": "globals\/colors?id=primary"
+                                        },
+                                        "_animation": "fadeInLeft"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "60b88e3b",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Icon-Service4.png",
+                                            "id": 814,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Asian Food",
+                                        "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                        "image_size": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "32",
+                                            "bottom": "32",
+                                            "left": "32",
+                                            "isLinked": true
+                                        },
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 103.461
+                                        },
+                                        "_flex_size": "none",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_background_background": "classic",
+                                        "_border_border": "none",
+                                        "_border_width": {
+                                            "unit": "px",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "48",
+                                            "right": "48",
+                                            "bottom": "48",
+                                            "left": "48",
+                                            "isLinked": true
+                                        },
+                                        "_box_shadow_box_shadow_type": "yes",
+                                        "_box_shadow_box_shadow": {
+                                            "horizontal": 0,
+                                            "vertical": 10,
+                                            "blur": 30,
+                                            "spread": -15,
+                                            "color": "rgba(0,0,0,0.5)"
+                                        },
+                                        "__globals__": {
+                                            "_background_color": "globals\/colors?id=e679251",
+                                            "title_typography_typography": "globals\/typography?id=117fb2f",
+                                            "_border_color": "globals\/colors?id=primary"
+                                        },
+                                        "_animation": "fadeInLeft"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "65ba5a18",
+                            "settings": {
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "10",
+                                    "isLinked": false
+                                },
+                                "animation": "fadeInUp",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "-128",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "3d1aa09d",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Icon-Service1.png",
+                                            "id": 811,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Wedding Catering",
+                                        "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                        "image_size": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "32",
+                                            "bottom": "32",
+                                            "left": "32",
+                                            "isLinked": true
+                                        },
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 103.461
+                                        },
+                                        "_flex_size": "none",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_background_background": "classic",
+                                        "_border_border": "none",
+                                        "_border_width": {
+                                            "unit": "px",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "48",
+                                            "right": "48",
+                                            "bottom": "48",
+                                            "left": "48",
+                                            "isLinked": true
+                                        },
+                                        "_box_shadow_box_shadow_type": "yes",
+                                        "_box_shadow_box_shadow": {
+                                            "horizontal": 0,
+                                            "vertical": 10,
+                                            "blur": 30,
+                                            "spread": -15,
+                                            "color": "rgba(0,0,0,0.5)"
+                                        },
+                                        "__globals__": {
+                                            "_background_color": "globals\/colors?id=e679251",
+                                            "title_typography_typography": "globals\/typography?id=117fb2f",
+                                            "_border_color": "globals\/colors?id=primary"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "43a0461b",
+                                    "settings": {
+                                        "image": {
+                                            "id": 722,
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Contact-Foto.png",
+                                            "alt": "",
+                                            "source": "library",
+                                            "size": ""
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "hide_mobile": "hidden-mobile",
+                                        "_animation": "fadeInUp"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "515250c5",
+                                    "settings": {
+                                        "image": {
+                                            "id": 83,
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Midle-gradient.png",
+                                            "alt": "",
+                                            "source": "library",
+                                            "size": ""
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "-194",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "hide_mobile": "hidden-mobile",
+                                        "_animation": "fadeInUp"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "57fba0b9",
+                            "settings": {
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "flex_gap": {
+                                    "column": "50",
+                                    "row": "50",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 50
+                                },
+                                "animation": "fadeInRight",
+                                "flex_gap_mobile": {
+                                    "column": "10",
+                                    "row": "10",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 10
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "19611dce",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Icon-Service2.png",
+                                            "id": 812,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Home  Service",
+                                        "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                        "image_size": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "32",
+                                            "bottom": "32",
+                                            "left": "32",
+                                            "isLinked": true
+                                        },
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 103.461
+                                        },
+                                        "_flex_size": "none",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_background_background": "classic",
+                                        "_border_border": "none",
+                                        "_border_width": {
+                                            "unit": "px",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "48",
+                                            "right": "48",
+                                            "bottom": "48",
+                                            "left": "48",
+                                            "isLinked": true
+                                        },
+                                        "_box_shadow_box_shadow_type": "yes",
+                                        "_box_shadow_box_shadow": {
+                                            "horizontal": 0,
+                                            "vertical": 10,
+                                            "blur": 30,
+                                            "spread": -15,
+                                            "color": "rgba(0,0,0,0.5)"
+                                        },
+                                        "__globals__": {
+                                            "_background_color": "globals\/colors?id=e679251",
+                                            "title_typography_typography": "globals\/typography?id=117fb2f",
+                                            "_border_color": "globals\/colors?id=primary"
+                                        },
+                                        "_animation": "fadeInRight"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "108bf1cd",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Icon-Service3.png",
+                                            "id": 813,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Western Food",
+                                        "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                        "image_size": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "32",
+                                            "bottom": "32",
+                                            "left": "32",
+                                            "isLinked": true
+                                        },
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 103.461
+                                        },
+                                        "_flex_size": "none",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_background_background": "classic",
+                                        "_border_border": "none",
+                                        "_border_width": {
+                                            "unit": "px",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "48",
+                                            "right": "48",
+                                            "bottom": "48",
+                                            "left": "48",
+                                            "isLinked": true
+                                        },
+                                        "_box_shadow_box_shadow_type": "yes",
+                                        "_box_shadow_box_shadow": {
+                                            "horizontal": 0,
+                                            "vertical": 10,
+                                            "blur": 30,
+                                            "spread": -15,
+                                            "color": "rgba(0,0,0,0.5)"
+                                        },
+                                        "__globals__": {
+                                            "_background_color": "globals\/colors?id=e679251",
+                                            "title_typography_typography": "globals\/typography?id=117fb2f",
+                                            "_border_color": "globals\/colors?id=primary"
+                                        },
+                                        "_animation": "fadeInRight"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "7c001cd",
+            "settings": {
+                "flex_direction": "column",
+                "padding": {
+                    "unit": "px",
+                    "top": "0124",
+                    "right": "10",
+                    "bottom": "130",
+                    "left": "10",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [],
+                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                "premium_tooltip_position": "top,bottom",
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "10",
+                    "bottom": "80",
+                    "left": "10",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "9039865",
+                    "settings": {
+                        "flex_direction": "column",
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Bg-Abou-Us.png",
+                            "id": 213,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_position": "top right",
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "100",
+                            "right": "100",
+                            "bottom": "100",
+                            "left": "100",
+                            "isLinked": true
+                        },
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 40,
+                            "blur": 0,
+                            "spread": 0,
+                            "color": "#E25A2E"
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "048",
+                            "right": "068",
+                            "bottom": "056",
+                            "left": "068",
+                            "isLinked": false
+                        },
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=accent"
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1d3d636",
+                            "settings": {
+                                "title": "about us",
+                                "align": "center",
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=e679251",
+                                    "typography_typography": "globals\/typography?id=secondary"
+                                },
+                                "_animation": "fadeInDown",
+                                "premium_tooltip_text_typo_line_height": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "premium_tooltip_text_typo_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "52859aa1",
+                            "settings": {
+                                "title": "A Legacy of<br>Flavors",
+                                "align": "center",
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=e679251",
+                                    "typography_typography": "globals\/typography?id=primary"
+                                },
+                                "_animation": "fadeInDown",
+                                "premium_tooltip_text_typo_line_height": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "premium_tooltip_text_typo_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "74b770b3",
+                            "settings": {
+                                "text": "Click here",
+                                "align": "center",
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=e679251",
+                                    "button_text_color": "globals\/colors?id=accent",
+                                    "hover_color": "globals\/colors?id=accent",
+                                    "button_background_hover_color": "globals\/colors?id=e1e5d78"
+                                },
+                                "_animation": "fadeInDown",
+                                "premium_tooltip_text_typo_line_height": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "premium_tooltip_text_typo_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2dbe9822",
+                            "settings": {
+                                "flex_direction": "row",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom"
+                            },
+                            "elements": [
+                                {
+                                    "id": "60d7ef9c",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 30.046
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "_flex_size": "none",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_element_width": "initial"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "487abbb1",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Group-12.png",
+                                                    "id": 217,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "-445",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "pa_condition_repeater": [],
+                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                "premium_tooltip_position": "top,bottom",
+                                                "_animation": "fadeInLeft",
+                                                "hide_tablet": "hidden-tablet",
+                                                "hide_mobile": "hidden-mobile",
+                                                "premium_tooltip_text_typo_line_height": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "premium_tooltip_text_typo_word_spacing": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "772f4596",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Arrow-2.png",
+                                                    "id": 212,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "pa_condition_repeater": [],
+                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                "premium_tooltip_position": "top,bottom",
+                                                "_animation": "zoomIn",
+                                                "hide_mobile": "hidden-mobile",
+                                                "premium_tooltip_text_typo_line_height": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "premium_tooltip_text_typo_word_spacing": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "34c0b5a0",
+                                            "settings": {
+                                                "editor": "<p>Founded in [Year], [Your Restaurant's Name] stands as a beacon of culinary excellence. Our journey began in [City\/Place], drawing inspiration from the city's rich culture and heritage. Today, we blend traditional techniques with modern flair, crafting dishes that tell a story \u2014 a story of passion, love, and dedication to the art of cooking.<\/p>",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "-150",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "pa_condition_repeater": [],
+                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                "premium_tooltip_position": "top,bottom",
+                                                "__globals__": {
+                                                    "text_color": "globals\/colors?id=e679251",
+                                                    "typography_typography": "globals\/typography?id=secondary"
+                                                },
+                                                "_animation": "fadeInUp",
+                                                "align_mobile": "center",
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "premium_tooltip_text_typo_line_height": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "premium_tooltip_text_typo_word_spacing": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "33bf3bbd",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 22.358
+                                        },
+                                        "boxed_width": {
+                                            "unit": "%",
+                                            "size": 38,
+                                            "sizes": []
+                                        },
+                                        "boxed_width_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "boxed_width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "_flex_size": "none",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_element_width": "initial"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5561b4b6",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Frice.png",
+                                                    "id": 219,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "pa_condition_repeater": [],
+                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                "premium_tooltip_position": "top,bottom",
+                                                "_background_background": "classic",
+                                                "_background_image": {
+                                                    "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Rectangle-5.png",
+                                                    "id": 218,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "_background_position": "center center",
+                                                "_background_repeat": "no-repeat",
+                                                "_background_size": "contain",
+                                                "_animation": "zoomIn",
+                                                "premium_tooltip_text_typo_line_height": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "premium_tooltip_text_typo_word_spacing": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "553b9ccd",
+                                    "settings": {
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7b831b31",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Foreground-About-us.png",
+                                                    "id": 214,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "pa_condition_repeater": [],
+                                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                                "premium_tooltip_position": "top,bottom",
+                                                "_background_background": "classic",
+                                                "_background_image": {
+                                                    "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Group-11.png",
+                                                    "id": 216,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "_background_position": "top center",
+                                                "_background_repeat": "no-repeat",
+                                                "_background_size": "contain",
+                                                "_animation": "fadeInRight",
+                                                "premium_tooltip_text_typo_line_height": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "premium_tooltip_text_typo_word_spacing": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

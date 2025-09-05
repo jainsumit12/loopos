@@ -1,96 +1,103 @@
 <?php
+define( 'WP_CACHE', true );
+
+ // Added by WP Rocket
+
+/** Enable W3 Total Cache */
+
+
 /**
  * The base configuration for WordPress
  *
- * The wp-config.php creation script uses this file during the
- * installation. You don't have to use the web site, you can
- * copy this file to "wp-config.php" and fill in the values.
+ * The wp-config.php creation script uses this file during the installation.
+ * You don't have to use the website, you can copy this file to "wp-config.php"
+ * and fill in the values.
  *
  * This file contains the following configurations:
  *
- * * MySQL settings
+ * * Database settings
  * * Secret keys
  * * Database table prefix
  * * ABSPATH
  *
- * @link https://codex.wordpress.org/Editing_wp-config.php
+ * @link https://wordpress.org/documentation/article/editing-wp-config-php/
  *
  * @package WordPress
  */
 
-// ** MySQL settings - You can get this info from your web host ** //
+// ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'tngwebso72_loopos' );
+define( 'DB_NAME', 'loopostngwebsolu_4_clone' );
 
-/** MySQL database username */
-define( 'DB_USER', 'tngwebso72_loopos' );
+/** Database username */
+define( 'DB_USER', 'loopostngwebsolu_4_clone' );
 
-/** MySQL database password */
-define( 'DB_PASSWORD', 'SjoC8cUbfJaOWuqazSop5qJoVrNJvCgUsRY1qlkKvTtqMD4HqjW2h' );
+/** Database password */
+define( 'DB_PASSWORD', 'g8B+~N8w-iT.grj%lMLgGxq?CM.H~}#S' );
 
-/** MySQL hostname */
+/** Database hostname */
 define( 'DB_HOST', 'localhost' );
 
-/** Database Charset to use in creating database tables. */
-define( 'DB_CHARSET', 'utf8' );
+/** Database charset to use in creating database tables. */
+define( 'DB_CHARSET', 'utf8mb4' );
 
-/** The Database Collate type. Don't change this if in doubt. */
+/** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
+define('WP_MEMORY_LIMIT', '256M');
 
-/**
- * Authentication Unique Keys and Salts.
+/**#@+
+ * Authentication unique keys and salts.
  *
- * Change these to different unique phrases!
- * You can generate these using the {@link https://api.wordpress.org/secret-key/1.1/salt/ WordPress.org secret-key service}
- * You can change these at any point in time to invalidate all existing cookies. This will force all users to have to log in again.
+ * Change these to different unique phrases! You can generate these using
+ * the {@link https://api.wordpress.org/secret-key/1.1/salt/ WordPress.org secret-key service}.
+ *
+ * You can change these at any point in time to invalidate all existing cookies.
+ * This will force all users to have to log in again.
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',          '61dPFmw1Lku5xOiluTJuR628qNLALlCSl3BUNGRAHe69QKgbAOR4VdFzmZrR3nnU' );
-define( 'SECURE_AUTH_KEY',   '2QTNpABgdiGK6mdUwbGYl37SDFnSlMcNxb1CQeXRnYHCAD04nQrh6MkT9NuuBQ21' );
-define( 'LOGGED_IN_KEY',     'ohNRtdz2hPUHsr9GflJZgqMyTGELAIKydhmoOdSgVBWHRdbeSWHT5604ZF7yA8cY' );
-define( 'NONCE_KEY',         'qAGppwW3dY3B5MM5TgSY1sTpkhEKdt8614dK7240NOf2KBIFsdyg8F6pfjF8mr8x' );
-define( 'AUTH_SALT',         '7z5HwEpLcKUSyKkknt6tuh5bBllIXyN7T03Q1yWJgJy8IZVcgBy8VsrKmKHHFmlb' );
-define( 'SECURE_AUTH_SALT',  'tTMfYHNxtPHN7HaFgN7CJeFaUywUv9QRgrkRR12FweVcR2XFF2vXNZk0snXmqoK3' );
-define( 'LOGGED_IN_SALT',    'ZlTeQWEV4yV6COcqZRX8nc6ABIoOH13S3lxNhiJtvj0Mxk13qjM3jjbn5ySyYi7y' );
-define( 'NONCE_SALT',        'ZEz0lfVl00xLXch3JporECx1vCNgb3Gg929YxBa1q5gpt8sWEd8H6pXUxKpqFjp1' );
-define( 'WP_CACHE_KEY_SALT', '7q0oRAXAyQTFxdeeSoUm7rHglrzXmS2PFadJCVt0FB1c13HWguQKCXvUHgxcHbtS' );
+define( 'AUTH_KEY',         'i5fik0n4azhidwebymmt0yaoc6phgyhhlirbzya8ohaviprwm6uonrmvzzkbwwhn' );
+define( 'SECURE_AUTH_KEY',  'yohz95izes1g9um6fygchmfntozl0esl9s3vls2xb9km0ikj4k9dsjj6sp1rjmm0' );
+define( 'LOGGED_IN_KEY',    'knmjzhm7sx90soo7mvzprxwncoqmspp6tihsfnltyregwxsespahspsxbdvyxj8b' );
+define( 'NONCE_KEY',        'y6my6wlcdgcopxxmkiohnmwkxl7upq6snweazpovqieyzmo6hgwpaf4ifqdzefq4' );
+define( 'AUTH_SALT',        'j2zgta5jgzcakulnubpzpkkozom8obkyrngt94g3dmwso0ne6zqjap0blchazn2f' );
+define( 'SECURE_AUTH_SALT', 'kql2wscvbdur2g1lmda9c5vxuqsyl5vswaib0v2etub9sbr6f09butro5rnlat7u' );
+define( 'LOGGED_IN_SALT',   'a7fh1xuvoo4zz0z6ygcictooukxyw13rxz7hrveuqtrlgn68zdleupbi3fcga6jb' );
+define( 'NONCE_SALT',       'ehpy4gxizbxoobydxlko1x3mkazdzvjwjui43vrxequsw6pjljztb1gmzjr6ty6b' );
+
+/**#@-*/
 
 /**
- * WordPress Database Table prefix.
+ * WordPress database table prefix.
  *
  * You can have multiple installations in one database if you give each
  * a unique prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix = 'wp_';
-
+$table_prefix = 'wpnc_';
 
 /**
- * Security hardening: disable theme/plugin editors in wp-admin
- * and enable core minor auto-updates. Also route debug to a log
- * without displaying errors publicly.
+ * For developers: WordPress debugging mode.
+ *
+ * Change this to true to enable the display of notices during development.
+ * It is strongly recommended that plugin and theme developers use WP_DEBUG
+ * in their development environments.
+ *
+ * For information on other constants that can be used for debugging,
+ * visit the documentation.
+ *
+ * @link https://wordpress.org/documentation/article/debugging-in-wordpress/
  */
-if ( ! defined( 'DISALLOW_FILE_EDIT' ) ) {
-    define( 'DISALLOW_FILE_EDIT', true );
-}
-if ( ! defined( 'WP_AUTO_UPDATE_CORE' ) ) {
-    define( 'WP_AUTO_UPDATE_CORE', 'minor' );
-}
-if ( ! defined( 'WP_DEBUG' ) ) {
-    define( 'WP_DEBUG', false );
-}
-if ( ! defined( 'WP_DEBUG_DISPLAY' ) ) {
-    define( 'WP_DEBUG_DISPLAY', false );
-}
-if ( ! defined( 'WP_DEBUG_LOG' ) ) {
-    define( 'WP_DEBUG_LOG', true );
-}
+define( 'WP_DEBUG', false );
+
+/* Add any custom values between this line and the "stop editing" line. */
+
+
 
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
 if ( ! defined( 'ABSPATH' ) ) {
-	define( 'ABSPATH', dirname( __FILE__ ) . '/' );
+	define( 'ABSPATH', __DIR__ . '/' );
 }
 
 /** Sets up WordPress vars and included files. */

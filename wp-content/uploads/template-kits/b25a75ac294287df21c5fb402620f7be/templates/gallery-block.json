@@ -1,0 +1,279 @@
+{
+    "version": "0.4",
+    "title": "Gallery Block",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-gallery",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1"
+    },
+    "content": [
+        {
+            "id": "6f25b197",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no",
+                "structure": "30",
+                "content_position": "middle",
+                "background_background": "classic",
+                "background_color": "#FFD43B",
+                "animation": "fadeIn"
+            },
+            "elements": [
+                {
+                    "id": "2b5d2691",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "4fb54653",
+                            "settings": {
+                                "gallery": [
+                                    {
+                                        "id": 1760,
+                                        "url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/gallery-5.jpg"
+                                    },
+                                    {
+                                        "id": 1761,
+                                        "url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/gallery-6.jpg"
+                                    },
+                                    {
+                                        "id": 1762,
+                                        "url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/gallery-7.jpg"
+                                    },
+                                    {
+                                        "id": 1759,
+                                        "url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/gallery-4.jpg"
+                                    }
+                                ],
+                                "galleries": [
+                                    {
+                                        "gallery_title": "New Gallery",
+                                        "_id": "888fb44",
+                                        "multiple_gallery": []
+                                    }
+                                ],
+                                "columns": 2,
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "aspect_ratio": "1:1",
+                                "thumbnail_image_size": "full",
+                                "show_all_galleries_label": "All"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "6cb4c9a5",
+                    "settings": {
+                        "_column_size": 100,
+                        "background_background": "classic",
+                        "background_color": "#FFD43B",
+                        "animation": "fadeIn",
+                        "animation_delay": 300
+                    },
+                    "elements": [
+                        {
+                            "id": "3ff13236",
+                            "settings": {
+                                "title": "Photo Gallery",
+                                "align": "center",
+                                "title_color": "#FFFFFF",
+                                "typography_font_family": "Josefin Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "bold",
+                                "typography_text_transform": "uppercase",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 3,
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "header_size": "h6"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "28af922a",
+                            "settings": {
+                                "title": "We love the aesthetics of good food.",
+                                "typography_typography": "custom",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 52,
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "10",
+                                    "isLinked": false
+                                },
+                                "align": "center",
+                                "typography_font_family": "Lora",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 46,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "bold",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "27",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4889d000",
+                            "settings": {
+                                "text": "our instagram",
+                                "align": "center",
+                                "typography_font_family": "Josefin Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "bold",
+                                "button_text_color": "#FFFFFF",
+                                "background_color": "#000000",
+                                "hover_color": "#000000",
+                                "button_background_hover_color": "#FFFFFF",
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "18",
+                                    "right": "32",
+                                    "bottom": "18",
+                                    "left": "32",
+                                    "isLinked": false
+                                },
+                                "button_hover_border_color": "#000000",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": true
+                                },
+                                "border_color": "#000000",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5bce5147",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "427c61b0",
+                            "settings": {
+                                "gallery": [
+                                    {
+                                        "id": 1765,
+                                        "url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/gallery-2.jpg"
+                                    },
+                                    {
+                                        "id": 1764,
+                                        "url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/gallery-1.jpg"
+                                    },
+                                    {
+                                        "id": 1766,
+                                        "url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/gallery-3.jpg"
+                                    },
+                                    {
+                                        "id": 1763,
+                                        "url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/gallery-8.jpg"
+                                    }
+                                ],
+                                "galleries": [
+                                    {
+                                        "gallery_title": "New Gallery",
+                                        "_id": "888fb44",
+                                        "multiple_gallery": []
+                                    }
+                                ],
+                                "columns": 2,
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "aspect_ratio": "1:1",
+                                "thumbnail_image_size": "full",
+                                "show_all_galleries_label": "All"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

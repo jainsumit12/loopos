@@ -1,0 +1,1039 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Deliverra \u2013 Food & Grocery Delivery App Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Partner",
+            "screenshot": "screenshots\/metform-partner.jpg",
+            "source": "templates\/metform-partner.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/template-kit\/metform-partner\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Partner",
+            "screenshot": "screenshots\/partner.jpg",
+            "source": "templates\/partner.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/template-kit\/partner\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/template-kit\/single-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header 2",
+            "screenshot": "screenshots\/header-2.jpg",
+            "source": "templates\/header-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/template-kit\/header-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "1.11.0",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "JegStudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.4.9",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "background-soft.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/background-soft-800x417.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 21015,
+            "dimensions": [
+                1920,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/deliverra\/"
+        },
+        {
+            "filename": "partnerr-JQLHGD.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/partnerr-JQLHGD.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 20825,
+            "dimensions": [
+                767,
+                358
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-JQLHGD"
+        },
+        {
+            "filename": "partner-DAHN76.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/partner-DAHN76-800x310.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 40241,
+            "dimensions": [
+                921,
+                357
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DAHN76"
+        },
+        {
+            "filename": "partner-GR7E54.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/partner-GR7E54-800x321.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 28488,
+            "dimensions": [
+                891,
+                358
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-GR7E54"
+        },
+        {
+            "filename": "deliv.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/deliv-800x808.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 131086,
+            "dimensions": [
+                1625,
+                1641
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-CVQC2N5"
+        },
+        {
+            "filename": "background-soft-2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/background-soft-2-800x417.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 13559,
+            "dimensions": [
+                1920,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/deliverra\/"
+        },
+        {
+            "filename": "burger-with-cheese-e1616580735881.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/burger-with-cheese-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 215758,
+            "dimensions": [
+                1024,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7Z5A9M"
+        },
+        {
+            "filename": "fried-chickens-wings-covered-in-honey-vegetables-e1616580871386.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/fried-chickens-wings-covered-in-honey-vegetables-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 148297,
+            "dimensions": [
+                1024,
+                681
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TJLYZFU"
+        },
+        {
+            "filename": "seafood-fried-rice-e1616580766702.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/seafood-fried-rice-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 144773,
+            "dimensions": [
+                1024,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N8LMGKM"
+        },
+        {
+            "filename": "japanese-sushi-set-e1616580770714.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/japanese-sushi-set-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 108695,
+            "dimensions": [
+                1024,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H5X9EJN"
+        },
+        {
+            "filename": "chicken-hakka-noodles-e1616580775871.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/chicken-hakka-noodles-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 137756,
+            "dimensions": [
+                1024,
+                684
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KCGX2JY"
+        },
+        {
+            "filename": "agricultural-products-of-local-farmers-in-the-grocery-market-e1616580707994.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/agricultural-products-of-local-farmers-in-the-grocery-market-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 139168,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PF7BT4Q"
+        },
+        {
+            "filename": "different-types-of-colorful-fresh-fruits-in-health-grocery-shop--e1616580726694.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/different-types-of-colorful-fresh-fruits-in-health-grocery-shop--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 196331,
+            "dimensions": [
+                1024,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZE428HL"
+        },
+        {
+            "filename": "fresh-organic-vegetables-in-the-produce-section-of-the-grocery-store-e1616580717342.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/fresh-organic-vegetables-in-the-produce-section-of-the-grocery-store-800x508.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 217560,
+            "dimensions": [
+                1024,
+                650
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LG9T59S"
+        },
+        {
+            "filename": "back-app.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/back-app-800x417.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 19601,
+            "dimensions": [
+                1920,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/deliverra\/"
+        },
+        {
+            "filename": "iphone.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/iphone-800x1124.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 174659,
+            "dimensions": [
+                1024,
+                1439
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZTCXVW2"
+        },
+        {
+            "filename": "app-store.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/app-store.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 11518,
+            "dimensions": [
+                498,
+                167
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/developer.apple.com\/app-store\/marketing\/guidelines\/"
+        },
+        {
+            "filename": "google-play.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/google-play.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 18013,
+            "dimensions": [
+                563,
+                167
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/play.google.com\/intl\/en_us\/badges\/"
+        },
+        {
+            "filename": "testimonial-YV9ABZR.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/testimonial-YV9ABZR.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 25367,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YV9ABZR"
+        },
+        {
+            "filename": "testimonial-Q8JDNBT.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/testimonial-Q8JDNBT.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 29754,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q8JDNBT"
+        },
+        {
+            "filename": "testimonial-N8572T7.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/testimonial-N8572T7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 29574,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N8572T7"
+        },
+        {
+            "filename": "background-meet.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/background-meet-800x417.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 20311,
+            "dimensions": [
+                1920,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/deliverra\/"
+        },
+        {
+            "filename": "meet.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/meet-800x914.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 136100,
+            "dimensions": [
+                1441,
+                1646
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RT9YSYL"
+        },
+        {
+            "filename": "food-delivery-manager-e1616580787934.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/food-delivery-manager-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 259645,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N7HFLBB"
+        },
+        {
+            "filename": "delivery-man-packing-orders-to-cool-box-e1616640573201.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/delivery-man-packing-orders-to-cool-box-e1616640573201.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 183995,
+            "dimensions": [
+                1920,
+                1279
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WPEUEY7"
+        },
+        {
+            "filename": "businessman-ordering-meal-delivery-e1616580839490.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/businessman-ordering-meal-delivery-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 239033,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-468UN6T"
+        },
+        {
+            "filename": "detail-of-food-delivery-at-home-e1616580793792.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/detail-of-food-delivery-at-home-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 176415,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CV6RRNZ"
+        },
+        {
+            "filename": "man-delivery-pizza-to-customer-e1616580798206.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/man-delivery-pizza-to-customer-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 178942,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PCWYLFV"
+        },
+        {
+            "filename": "a-portrait-of-mature-businessman-standing-in-an-of-VS4Q6MV.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/a-portrait-of-mature-businessman-standing-in-an-of-VS4Q6MV-800x787.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 180299,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VS4Q6MV"
+        },
+        {
+            "filename": "martin-5QEGBV.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/martin-5QEGBV.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 5997,
+            "dimensions": [
+                355,
+                67
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5QEGBV"
+        },
+        {
+            "filename": "baran-castaneda.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/baran-castaneda.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 4250,
+            "dimensions": [
+                270,
+                67
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5QEGBV"
+        },
+        {
+            "filename": "a-portrait-of-young-businessman-standing-in-an-off-DNGDX9V.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/a-portrait-of-young-businessman-standing-in-an-off-DNGDX9V-800x787.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 158651,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DNGDX9V"
+        },
+        {
+            "filename": "close-up-of-man-in-protective-suit-checking-delivery-in-list-e1616728583350.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/close-up-of-man-in-protective-suit-checking-delivery-in-list-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 170826,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M3NQWYT"
+        },
+        {
+            "filename": "young-woman-with-smartphone-ordering-food-at-home-coronavirus-and-food-delivery-concept--e1616580809692.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/young-woman-with-smartphone-ordering-food-at-home-coronavirus-and-food-delivery-concept--800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 221818,
+            "dimensions": [
+                1920,
+                1278
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZX9LYH4"
+        },
+        {
+            "filename": "black-woman-using-laptop-ordering-food-delivery-online-sitting-indoors-e1616580817654.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/black-woman-using-laptop-ordering-food-delivery-online-sitting-indoors-800x530.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 268268,
+            "dimensions": [
+                1920,
+                1272
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FMQLEMD"
+        },
+        {
+            "filename": "man-using-mobile-app-to-order-delivery-food-e1616580827319.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/man-using-mobile-app-to-order-delivery-food-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 157159,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ERC7BZ5"
+        },
+        {
+            "filename": "logo2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/logo2-800x145.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/header-2.json",
+                    "name": "Header 2"
+                }
+            ],
+            "filesize": 12033,
+            "dimensions": [
+                1196,
+                217
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PEYRAY"
+        },
+        {
+            "filename": "logo-white.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/deliverra\/wp-content\/uploads\/sites\/61\/2021\/03\/logo-white-800x145.png",
+            "templates": [
+                {
+                    "source": "templates\/header-2.json",
+                    "name": "Header 2"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 11239,
+            "dimensions": [
+                1197,
+                217
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PEYRAY"
+        }
+    ]
+}

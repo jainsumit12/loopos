@@ -1,0 +1,137 @@
+{
+    "version": "0.4",
+    "title": "404",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "2a63580d",
+            "settings": {
+                "flex_direction": "column",
+                "padding": {
+                    "unit": "px",
+                    "top": "150",
+                    "right": "0",
+                    "bottom": "150",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [],
+                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                "premium_tooltip_position": "top,bottom"
+            },
+            "elements": [
+                {
+                    "id": "573d77af",
+                    "settings": {
+                        "flex_direction": "row",
+                        "flex_justify_content": "center",
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom"
+                    },
+                    "elements": [
+                        {
+                            "id": "196d52f3",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Empat404.png",
+                                    "id": 479,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3bafad76",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/404.png",
+                                    "id": 476,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "76dc8af2",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Empat404.png",
+                                    "id": 479,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "4f7eba8e",
+                    "settings": {
+                        "title": "Oops! Page Not Found",
+                        "align": "center",
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "__globals__": {
+                            "title_color": "globals\/colors?id=primary",
+                            "typography_typography": "globals\/typography?id=primary"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "508b16a9",
+                    "settings": {
+                        "text": "Back to home",
+                        "align": "center",
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "button",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

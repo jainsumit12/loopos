@@ -1,0 +1,711 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Frenzy - Food Delivery & Restaurant Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/frenzy\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/frenzy\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/frenzy\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/frenzy\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/frenzy\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Product Detail",
+            "screenshot": "screenshots\/product-detail.jpg",
+            "source": "templates\/product-detail.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/frenzy\/template-kit\/product-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Shop",
+            "screenshot": "screenshots\/shop.jpg",
+            "source": "templates\/shop.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/frenzy\/template-kit\/shop\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/frenzy\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/frenzy\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/frenzy\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.4.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.7",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Contact Form 7",
+            "version": "5.4.2",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bg3.1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/bg3.1-800x385.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 74918,
+            "dimensions": [
+                1962,
+                944
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo2.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/logo2.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 11234,
+            "dimensions": [
+                384,
+                272
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "LOGO.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/LOGO.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 11608,
+            "dimensions": [
+                384,
+                272
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg4.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/bg4-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 174020,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "black-delivery-man-holding-pizza-boxes-using-smart-W8AC8MN.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/black-delivery-man-holding-pizza-boxes-using-smart-W8AC8MN.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 246873,
+            "dimensions": [
+                749,
+                614
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-W8AC8MN"
+        },
+        {
+            "filename": "bg3.3.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/bg3.3-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 133962,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Delivery1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/Delivery1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 94385,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "FAQ.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/FAQ-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 122516,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Benefit1.1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/Benefit1.1-800x708.png",
+            "templates": [
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 752392,
+            "dimensions": [
+                976,
+                864
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Burger4.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/Burger4.png",
+            "templates": [
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 129810,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Burger3.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/Burger3.png",
+            "templates": [
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 120989,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Burger2.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/Burger2.png",
+            "templates": [
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 119074,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Burger1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/Burger1.png",
+            "templates": [
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 100587,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "black-delivery-man-in-medical-mask-holding-pizza-b-BN5VYQP.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/black-delivery-man-in-medical-mask-holding-pizza-b-BN5VYQP.png",
+            "templates": [
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 246057,
+            "dimensions": [
+                516,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BN5VYQP"
+        },
+        {
+            "filename": "bg1.1.1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/bg1.1.1-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 185553,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "express-delivery-shipping-and-logistics-concept-co-XWDH6TW.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/express-delivery-shipping-and-logistics-concept-co-XWDH6TW.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 249218,
+            "dimensions": [
+                550,
+                614
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XWDH6TW"
+        },
+        {
+            "filename": "bg2.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/bg2-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 80457,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "happy-smiling-black-delivery-man-holding-package-9MCKXJJ.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/happy-smiling-black-delivery-man-holding-package-9MCKXJJ.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 235294,
+            "dimensions": [
+                467,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9MCKXJJ"
+        },
+        {
+            "filename": "team-1.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/team-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 81603,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-a-diverse-group-of-laughing-entrepreneu-KMF3QCG?_ga=2.82244822.1574938342.1632474706-538507379.1612255938"
+        },
+        {
+            "filename": "team-4.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/team-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 76961,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-a-diverse-group-of-laughing-entrepreneu-KMF3QCG?_ga=2.82244822.1574938342.1632474706-538507379.1612255938"
+        },
+        {
+            "filename": "team-2.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/team-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 93869,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-a-diverse-group-of-laughing-entrepreneu-KMF3QCG?_ga=2.82244822.1574938342.1632474706-538507379.1612255938"
+        },
+        {
+            "filename": "african-american-delivery-man-in-protective-mask-w-VSFT54H.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/frenzy\/wp-content\/uploads\/sites\/28\/2021\/09\/african-american-delivery-man-in-protective-mask-w-VSFT54H.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 245149,
+            "dimensions": [
+                516,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VSFT54H"
+        }
+    ]
+}

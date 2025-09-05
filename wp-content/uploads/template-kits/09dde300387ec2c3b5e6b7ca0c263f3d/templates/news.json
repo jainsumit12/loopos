@@ -1,0 +1,313 @@
+{
+    "version": "0.4",
+    "title": "News",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "750b9aa6",
+            "settings": {
+                "pa_condition_repeater": [],
+                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                "premium_tooltip_position": "top,bottom",
+                "padding": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "10",
+                    "bottom": "40",
+                    "left": "10",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5905ec2e",
+                    "settings": {
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/SubHero.png",
+                            "id": 520,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_position": "center center",
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "40",
+                            "bottom": "40",
+                            "left": "40",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "80",
+                            "right": "10",
+                            "bottom": "80",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=accent"
+                        },
+                        "background_position_tablet": "center right",
+                        "background_size_tablet": "cover"
+                    },
+                    "elements": [
+                        {
+                            "id": "e332652",
+                            "settings": {
+                                "title": "News",
+                                "align": "center",
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=e679251",
+                                    "typography_typography": "globals\/typography?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4307e79d",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.\u00a0<\/p>",
+                                "align": "center",
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=e679251",
+                                    "typography_typography": "globals\/typography?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "3bcae7f7",
+            "settings": {
+                "flex_direction": "column",
+                "pa_condition_repeater": [],
+                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                "premium_tooltip_position": "top,bottom",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "10",
+                    "bottom": "80",
+                    "left": "10",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "6a30b3bb",
+                    "settings": {
+                        "ekit_blog_posts_layout_style": "elementskit-post-image-card",
+                        "ekit_blog_posts_num": 6,
+                        "ekit_blog_posts_cats": [
+                            "1"
+                        ],
+                        "ekit_blog_posts_btn_text": "Read more",
+                        "ekit_blog_posts_background_background": "classic",
+                        "ekit_blog_posts_radius": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        },
+                        "ekit_blog_posts_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "030",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ekit_blog_posts_text_content_wraper_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "20",
+                            "bottom": "035",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "ekit_blog_posts_btn_bg_color_background": "classic",
+                        "__globals__": {
+                            "ekit_blog_posts_content_background": "",
+                            "ekit_blog_posts_background_color": "globals\/colors?id=e1e5d78",
+                            "ekit_blog_posts_btn_text_color": "",
+                            "ekit_blog_posts_btn_bg_color_color": "globals\/colors?id=accent",
+                            "ekit_blog_posts_btn_typography_typography": "globals\/typography?id=accent",
+                            "ekit_blog_posts_title_typography_typography": "globals\/typography?id=718cfe6",
+                            "ekit_blog_posts_content_typography_typography": "globals\/typography?id=text",
+                            "ekit_blog_posts_content_color": "globals\/colors?id=primary",
+                            "ekit_blog_posts_title_color": "globals\/colors?id=primary",
+                            "ekit_blog_posts_btn_hover_color": "globals\/colors?id=e679251",
+                            "ekit_blog_posts_btn_bg_hover_color_color": "globals\/colors?id=10574a5",
+                            "ekit_blog_posts_meta_typography_typography": ""
+                        },
+                        "ekit_blog_posts_btn_text_padding": {
+                            "unit": "px",
+                            "top": "12",
+                            "right": "24",
+                            "bottom": "12",
+                            "left": "24",
+                            "isLinked": false
+                        },
+                        "ekit_blog_posts_btn_bg_hover_color_background": "classic",
+                        "ekit_blog_posts_btn_border_radius": {
+                            "unit": "px",
+                            "top": "12",
+                            "right": "12",
+                            "bottom": "12",
+                            "left": "12",
+                            "isLinked": true
+                        },
+                        "_animation": "fadeInUp",
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "ekit_blog_posts_title_margin": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "0",
+                            "bottom": "10",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ekit_blog_posts_content_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "15",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ekit_blog_posts_background_color": "#EBF1FB",
+                        "ekit_blog_posts_feature_img_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "ekit_blog_posts_meta_typography_font_family": "Roboto",
+                        "ekit_blog_posts_meta_typography_font_size": {
+                            "unit": "px",
+                            "size": 40,
+                            "sizes": []
+                        },
+                        "ekit_blog_posts_meta_typography_font_weight": "700",
+                        "ekit_blog_posts_meta_typography_line_height": {
+                            "unit": "px",
+                            "size": 52,
+                            "sizes": []
+                        },
+                        "ekit_blog_posts_meta_typography_letter_spacing": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "ekit_blog_posts_meta_typography_word_spacing": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "ekit_blog_posts_title_color": "#09253F",
+                        "ekit_blog_posts_content_color": "#09253F",
+                        "ekit_blog_posts_content_typography_typography": "custom",
+                        "ekit_blog_posts_content_typography_font_family": "Roboto",
+                        "ekit_blog_posts_content_typography_font_size": {
+                            "unit": "px",
+                            "size": 14,
+                            "sizes": []
+                        },
+                        "ekit_blog_posts_content_typography_font_weight": "400",
+                        "ekit_blog_posts_content_typography_line_height": {
+                            "unit": "px",
+                            "size": 20,
+                            "sizes": []
+                        },
+                        "ekit_blog_posts_content_typography_letter_spacing": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "ekit_blog_posts_content_typography_word_spacing": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "ekit_blog_posts_btn_typography_typography": "custom",
+                        "ekit_blog_posts_btn_typography_font_family": "Roboto",
+                        "ekit_blog_posts_btn_typography_font_size": {
+                            "unit": "px",
+                            "size": 18,
+                            "sizes": []
+                        },
+                        "ekit_blog_posts_btn_typography_font_weight": "600",
+                        "ekit_blog_posts_btn_typography_text_transform": "uppercase",
+                        "ekit_blog_posts_btn_typography_line_height": {
+                            "unit": "px",
+                            "size": 24,
+                            "sizes": []
+                        },
+                        "ekit_blog_posts_btn_typography_letter_spacing": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "ekit_blog_posts_btn_typography_word_spacing": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "ekit_blog_posts_btn_text_color": "#FFFFFF",
+                        "ekit_blog_posts_btn_bg_color_color": "#0553C9",
+                        "ekit_blog_posts_btn_hover_color": "#EBF1FB",
+                        "ekit_blog_posts_btn_bg_hover_color_color": "#09253F",
+                        "ekit_blog_posts_title_shadow_text_shadow_type": "yes"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "elementskit-blog-posts",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

@@ -1,0 +1,1167 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Yumma - Template kit for Recipes Web",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/point.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/point.moxcreative.com\/yumma\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Join Contributor",
+            "screenshot": "screenshots\/join-contributor.jpg",
+            "source": "templates\/join-contributor.json",
+            "preview_url": "https:\/\/point.moxcreative.com\/yumma\/template-kit\/join-contributor\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Recipe",
+            "screenshot": "screenshots\/single-recipe.jpg",
+            "source": "templates\/single-recipe.json",
+            "preview_url": "https:\/\/point.moxcreative.com\/yumma\/template-kit\/single-recipe\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Recipes List",
+            "screenshot": "screenshots\/recipes-list.jpg",
+            "source": "templates\/recipes-list.json",
+            "preview_url": "https:\/\/point.moxcreative.com\/yumma\/template-kit\/recipes-list\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/point.moxcreative.com\/yumma\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/point.moxcreative.com\/yumma\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/point.moxcreative.com\/yumma\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/point.moxcreative.com\/yumma\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/point.moxcreative.com\/yumma\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Yumma V1 - Error 404",
+            "screenshot": "screenshots\/yumma-v1-error-404.jpg",
+            "source": "templates\/yumma-v1-error-404.json",
+            "preview_url": "https:\/\/point.moxcreative.com\/yumma\/?elementor_library=yumma-v1-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Yumma V1 - Single Post",
+            "screenshot": "screenshots\/yumma-v1-single-post.jpg",
+            "source": "templates\/yumma-v1-single-post.json",
+            "preview_url": "https:\/\/point.moxcreative.com\/yumma\/?elementor_library=yumma-v1-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Yumma V1 - Archive",
+            "screenshot": "screenshots\/yumma-v1-archive.jpg",
+            "source": "templates\/yumma-v1-archive.json",
+            "preview_url": "https:\/\/point.moxcreative.com\/yumma\/?elementor_library=yumma-v1-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Yumma V1 - Footer",
+            "screenshot": "screenshots\/yumma-v1-footer.jpg",
+            "source": "templates\/yumma-v1-footer.json",
+            "preview_url": "https:\/\/point.moxcreative.com\/yumma\/?elementor_library=yumma-v1-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Yumma V1 - Header",
+            "screenshot": "screenshots\/yumma-v1-header.jpg",
+            "source": "templates\/yumma-v1-header.json",
+            "preview_url": "https:\/\/point.moxcreative.com\/yumma\/?elementor_library=yumma-v1-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.6.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.5",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Material Design Icons for Page Builders",
+            "version": "1.4.2",
+            "file": "material-design-icons-for-elementor\/material-design-icons-for-elementor.php",
+            "author": "Photon WP"
+        }
+    ],
+    "images": [
+        {
+            "filename": "concept-of-tasty-food-with-bell-pepper-on-white-background.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/concept-of-tasty-food-with-bell-pepper-on-white-background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 100047,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DJJXAQM"
+        },
+        {
+            "filename": "flat-lay-with-takeaway-food-on-wooden-background-food-delivery.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/flat-lay-with-takeaway-food-on-wooden-background-food-delivery-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 153009,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2P99P5C"
+        },
+        {
+            "filename": "chinese-food-white-background.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/chinese-food-white-background-800x569.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 164404,
+            "dimensions": [
+                1080,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-JM8LW8D"
+        },
+        {
+            "filename": "home-cooked-happiness.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/home-cooked-happiness-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 146030,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VNWECS3"
+        },
+        {
+            "filename": "chicken-65.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/chicken-65-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-recipe.json",
+                    "name": "Single Recipe"
+                },
+                {
+                    "source": "templates\/recipes-list.json",
+                    "name": "Recipes List"
+                }
+            ],
+            "filesize": 233520,
+            "dimensions": [
+                1080,
+                1618
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZZSUM4"
+        },
+        {
+            "filename": "homemade-kung-pao-chicken-with-peppers-and-vegetables-chinese-food-stir-fry-.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/homemade-kung-pao-chicken-with-peppers-and-vegetables-chinese-food-stir-fry--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-recipe.json",
+                    "name": "Single Recipe"
+                },
+                {
+                    "source": "templates\/recipes-list.json",
+                    "name": "Recipes List"
+                }
+            ],
+            "filesize": 85778,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-63MWP5H"
+        },
+        {
+            "filename": "sweet-and-spicy-honey-grilled-chicken-thighs-e1649757466220.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/sweet-and-spicy-honey-grilled-chicken-thighs-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-recipe.json",
+                    "name": "Single Recipe"
+                },
+                {
+                    "source": "templates\/recipes-list.json",
+                    "name": "Recipes List"
+                }
+            ],
+            "filesize": 127369,
+            "dimensions": [
+                840,
+                561
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5GV9KP8"
+        },
+        {
+            "filename": "baked-brie-with-cranberries-e1649757494180.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/baked-brie-with-cranberries-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-recipe.json",
+                    "name": "Single Recipe"
+                },
+                {
+                    "source": "templates\/recipes-list.json",
+                    "name": "Recipes List"
+                }
+            ],
+            "filesize": 135030,
+            "dimensions": [
+                720,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PEQ45UP"
+        },
+        {
+            "filename": "cooking-concept-with-ingredients-for-cooking.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/cooking-concept-with-ingredients-for-cooking-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/recipes-list.json",
+                    "name": "Recipes List"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/yumma-v1-archive.json",
+                    "name": "Yumma V1 - Archive"
+                }
+            ],
+            "filesize": 172445,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-M9AR26E"
+        },
+        {
+            "filename": "roasted-prawns-shrimps-in-frying-pan-with-lemon-and-chili-pepper-e1649757645348.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/roasted-prawns-shrimps-in-frying-pan-with-lemon-and-chili-pepper-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/recipes-list.json",
+                    "name": "Recipes List"
+                }
+            ],
+            "filesize": 129199,
+            "dimensions": [
+                840,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FRFVESW"
+        },
+        {
+            "filename": "baked-spanakopita-spiral-filo-pastry-puff-pie-with-feta-cheese-and-spinach-.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/baked-spanakopita-spiral-filo-pastry-puff-pie-with-feta-cheese-and-spinach--800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/recipes-list.json",
+                    "name": "Recipes List"
+                }
+            ],
+            "filesize": 220922,
+            "dimensions": [
+                1080,
+                719
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WL2W9FL"
+        },
+        {
+            "filename": "mojito.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/mojito-800x544.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-recipe.json",
+                    "name": "Single Recipe"
+                },
+                {
+                    "source": "templates\/recipes-list.json",
+                    "name": "Recipes List"
+                }
+            ],
+            "filesize": 87421,
+            "dimensions": [
+                1080,
+                735
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTKP748"
+        },
+        {
+            "filename": "breakfast.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/breakfast-800x539.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/recipes-list.json",
+                    "name": "Recipes List"
+                }
+            ],
+            "filesize": 231090,
+            "dimensions": [
+                1080,
+                728
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FV6H834"
+        },
+        {
+            "filename": "chocolate-smoothie-bowl-with-banana-peanut-butter-and-hemp-seeds.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/chocolate-smoothie-bowl-with-banana-peanut-butter-and-hemp-seeds-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/recipes-list.json",
+                    "name": "Recipes List"
+                }
+            ],
+            "filesize": 162399,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HAWKPS2"
+        },
+        {
+            "filename": "black-man-and-girl-cooking-in-the-kitchen-using-tablet.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/black-man-and-girl-cooking-in-the-kitchen-using-tablet-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/recipes-list.json",
+                    "name": "Recipes List"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 72496,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6BUACZ8"
+        },
+        {
+            "filename": "happy-young-couple-cooking-together-in-the-kitchen-at-home.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/happy-young-couple-cooking-together-in-the-kitchen-at-home-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/join-contributor.json",
+                    "name": "Join Contributor"
+                }
+            ],
+            "filesize": 102928,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y4DB7QL"
+        },
+        {
+            "filename": "img_1.png",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/join-contributor.json",
+                    "name": "Join Contributor"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 112202,
+            "dimensions": [
+                720,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GA69PJT"
+        },
+        {
+            "filename": "img__0003_Layer-5.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img__0003_Layer-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/join-contributor.json",
+                    "name": "Join Contributor"
+                }
+            ],
+            "filesize": 47988,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/joyful-freckled-teenager-wears-round-transparent-g-EPRUCGN"
+        },
+        {
+            "filename": "img__0004_Layer-4.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img__0004_Layer-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/join-contributor.json",
+                    "name": "Join Contributor"
+                }
+            ],
+            "filesize": 40613,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-shot-of-handsome-self-confident-cheerful--BUTM9PX"
+        },
+        {
+            "filename": "img__0001_Layer-7.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img__0001_Layer-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/join-contributor.json",
+                    "name": "Join Contributor"
+                }
+            ],
+            "filesize": 41345,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/horizontal-shot-of-pleasant-looking-ginger-young-e-F9MBGAR"
+        },
+        {
+            "filename": "ingredients-for-cooking.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/ingredients-for-cooking-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 218099,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WEV4NHZ"
+        },
+        {
+            "filename": "signature-1.png",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/signature-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 8746,
+            "dimensions": [
+                615,
+                167
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "italian-food-background-with-spaghetti-on-grey.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/italian-food-background-with-spaghetti-on-grey-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/join-contributor.json",
+                    "name": "Join Contributor"
+                }
+            ],
+            "filesize": 121951,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4ZDJA3R"
+        },
+        {
+            "filename": "mojito-cocktail.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/mojito-cocktail-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-recipe.json",
+                    "name": "Single Recipe"
+                }
+            ],
+            "filesize": 123145,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P257RFA"
+        },
+        {
+            "filename": "mojito-cocktail-2.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/mojito-cocktail-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-recipe.json",
+                    "name": "Single Recipe"
+                }
+            ],
+            "filesize": 171114,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-REWYQEU"
+        },
+        {
+            "filename": "glass-of-mojito-1.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/glass-of-mojito-1-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-recipe.json",
+                    "name": "Single Recipe"
+                }
+            ],
+            "filesize": 97101,
+            "dimensions": [
+                1080,
+                719
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XT8W5GT"
+        },
+        {
+            "filename": "crumpled-paper-background.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/crumpled-paper-background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-recipe.json",
+                    "name": "Single Recipe"
+                }
+            ],
+            "filesize": 66916,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-G2D88QN"
+        },
+        {
+            "filename": "img__0002_Layer-6.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img__0002_Layer-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-recipe.json",
+                    "name": "Single Recipe"
+                }
+            ],
+            "filesize": 58477,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/carefree-attractive-girl-with-pleasant-look-enjoys-4GXJZTE"
+        },
+        {
+            "filename": "food-background-with-vegetables-spices-herbs-.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/food-background-with-vegetables-spices-herbs--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/recipes-list.json",
+                    "name": "Recipes List"
+                }
+            ],
+            "filesize": 159825,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-G5UJZMC"
+        },
+        {
+            "filename": "cooking-concept-with-ingredients-for-cooking-1.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/cooking-concept-with-ingredients-for-cooking-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 200218,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DMMWSGQ"
+        },
+        {
+            "filename": "portrait-of-happy-couple-cooking-together-in-the-kitchen-at-home.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/portrait-of-happy-couple-cooking-together-in-the-kitchen-at-home-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 141347,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2SQ5MXP"
+        },
+        {
+            "filename": "img_1.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 63016,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pleased-cheerful-redhaired-male-with-pleasant-smil-CCXAYZL"
+        },
+        {
+            "filename": "img_9.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 95843,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-cheerful-european-female-with-satisfie-W73EUUE"
+        },
+        {
+            "filename": "img_8.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 64765,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-shot-of-handsome-self-confident-cheerful--BUTM9PX"
+        },
+        {
+            "filename": "img_4.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 71472,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/horizontal-shot-of-pleasant-looking-ginger-young-e-F9MBGAR"
+        },
+        {
+            "filename": "img_5.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 111607,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/carefree-attractive-girl-with-pleasant-look-enjoys-4GXJZTE"
+        },
+        {
+            "filename": "img_3.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 70638,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-confident-male-entrepreneur-with-postive-smi-BDAU9DK"
+        },
+        {
+            "filename": "img_6.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 85457,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/joyful-freckled-teenager-wears-round-transparent-g-EPRUCGN"
+        },
+        {
+            "filename": "img_7.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 45428,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/optimistic-positive-handsome-bearded-man-FXXXGY4"
+        },
+        {
+            "filename": "close-up-of-food-on-table-eating-alfresco.jpg",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/close-up-of-food-on-table-eating-alfresco-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 97762,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FLTWVLE"
+        },
+        {
+            "filename": "Crackegg_.png",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/Crackegg_.png",
+            "templates": [
+                {
+                    "source": "templates\/yumma-v1-error-404.json",
+                    "name": "Yumma V1 - Error 404"
+                }
+            ],
+            "filesize": 64627,
+            "dimensions": [
+                720,
+                549
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PAH7BD2"
+        },
+        {
+            "filename": "yumma_logo.png",
+            "thumbnail_url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/yumma_logo.png",
+            "templates": [
+                {
+                    "source": "templates\/yumma-v1-footer.json",
+                    "name": "Yumma V1 - Footer"
+                },
+                {
+                    "source": "templates\/yumma-v1-header.json",
+                    "name": "Yumma V1 - Header"
+                }
+            ],
+            "filesize": 4422,
+            "dimensions": [
+                291,
+                82
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

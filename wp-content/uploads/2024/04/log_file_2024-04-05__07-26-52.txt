@@ -1,0 +1,73 @@
+
+---Downloaded files---
+The import files for: App Landing were successfully downloaded!
+Initial max execution time = 1500
+Files info:
+Site URL = https://loopos.tngwebsolutions.ca
+Data file = /home/loopostngwebsolu/public_html/wp-content/uploads/2024/04/demo-content-import-file_2024-04-05__07-26-52.xml
+Widget file = /home/loopostngwebsolu/public_html/wp-content/uploads/2024/04/demo-widgets-import-file_2024-04-05__07-26-52.json
+Customizer file = /home/loopostngwebsolu/public_html/wp-content/uploads/2024/04/demo-customizer-import-file_2024-04-05__07-26-52.dat
+Redux files:
+iteck_theme_setting -> /home/loopostngwebsolu/public_html/wp-content/uploads/2024/04/demo-redux-import-file_0-2024-04-05__07-26-52.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - Search - Imported
+ITECK: Blog Featured Posts - Recent posts - Imported
+Categories - Categories - Imported
+Iteck Newsletter - Newsletter - Imported
+ITECK - About Us - Social - Imported
+Tag Cloud - Popular tags - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: iteck_theme_setting finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

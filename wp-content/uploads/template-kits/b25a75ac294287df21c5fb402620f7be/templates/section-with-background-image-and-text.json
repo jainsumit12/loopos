@@ -1,0 +1,131 @@
+{
+    "version": "0.4",
+    "title": "Section with Background Image and Text",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-hero",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1"
+    },
+    "content": [
+        {
+            "id": "76b43308",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/main-1.jpg",
+                    "id": 1737
+                },
+                "background_position": "center center",
+                "background_motion_fx_motion_fx_scrolling": "yes",
+                "background_motion_fx_translateY_effect": "yes",
+                "padding": {
+                    "unit": "px",
+                    "top": "170",
+                    "right": "0",
+                    "bottom": "170",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "4ca2f188",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "689ce632",
+                            "settings": {
+                                "title": "recipes \u2013 Coaching \u2013 Workshops",
+                                "header_size": "h6",
+                                "align": "center",
+                                "title_color": "rgba(0, 0, 0, 0.36)",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "24a44fb4",
+                            "settings": {
+                                "title": "Food that's good to you",
+                                "header_size": "h1",
+                                "align": "center",
+                                "typography_typography": "custom"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "ef8fa20",
+                            "settings": {
+                                "title": "The right food can change your life.",
+                                "header_size": "p",
+                                "align": "center",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5514baf",
+                            "settings": {
+                                "text": "Explore more",
+                                "align": "center",
+                                "button_text_color": "#FFFFFF",
+                                "background_color": "#F06F13",
+                                "hover_color": "#FFFFFF",
+                                "button_background_hover_color": "#000000",
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "40",
+                                    "bottom": "20",
+                                    "left": "40",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

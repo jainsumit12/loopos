@@ -1,0 +1,2640 @@
+{
+    "version": "0.4",
+    "title": "Our Menu",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "45b58ca",
+            "settings": {
+                "flex_direction": "column",
+                "padding": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "10",
+                    "bottom": "40",
+                    "left": "10",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [],
+                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                "premium_tooltip_position": "top,bottom"
+            },
+            "elements": [
+                {
+                    "id": "5b6bc333",
+                    "settings": {
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/SubHero.png",
+                            "id": 520,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_position": "center center",
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "40",
+                            "bottom": "40",
+                            "left": "40",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "80",
+                            "right": "10",
+                            "bottom": "80",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=accent"
+                        },
+                        "background_position_tablet": "center right",
+                        "background_size_tablet": "cover"
+                    },
+                    "elements": [
+                        {
+                            "id": "1d580324",
+                            "settings": {
+                                "title": "Our Menu",
+                                "align": "center",
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=e679251",
+                                    "typography_typography": "globals\/typography?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "95b319e",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.\u00a0<\/p>",
+                                "align": "center",
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=e679251",
+                                    "typography_typography": "globals\/typography?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "e7c6637",
+            "settings": {
+                "flex_direction": "column",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [],
+                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                "premium_tooltip_position": "top,bottom",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Special-Menu-BG.png",
+                    "id": 192,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "top center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Cloud-Bg1.png",
+                    "id": 645,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "bottom center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "contain"
+            },
+            "elements": [
+                {
+                    "id": "1dd914fc",
+                    "settings": {
+                        "title": "our special menu",
+                        "align": "center",
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "__globals__": {
+                            "title_color": "globals\/colors?id=secondary",
+                            "typography_typography": "globals\/typography?id=secondary"
+                        },
+                        "_animation": "fadeInDown",
+                        "premium_tooltip_text_typo_line_height": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "premium_tooltip_text_typo_word_spacing": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "5e9805ea",
+                    "settings": {
+                        "title": "A Symphony<br>of Flavors",
+                        "align": "center",
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "__globals__": {
+                            "title_color": "globals\/colors?id=primary",
+                            "typography_typography": "globals\/typography?id=primary"
+                        },
+                        "_animation": "fadeInDown",
+                        "premium_tooltip_text_typo_line_height": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "premium_tooltip_text_typo_word_spacing": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "34839548",
+                    "settings": {
+                        "flex_direction": "row",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom"
+                    },
+                    "elements": [
+                        {
+                            "id": "176054d8",
+                            "settings": {
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "flex_gap": {
+                                    "column": "20",
+                                    "row": "20",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "744181fd",
+                                    "settings": {
+                                        "title": "$28",
+                                        "align": "center",
+                                        "title_color": "#100E0D",
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "24",
+                                            "bottom": "8",
+                                            "left": "24",
+                                            "isLinked": false
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 29.053
+                                        },
+                                        "_flex_align_self": "center",
+                                        "_flex_size": "none",
+                                        "_z_index": 1,
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_background_background": "classic",
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "9999",
+                                            "right": "9999",
+                                            "bottom": "9999",
+                                            "left": "9999",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e679251",
+                                            "typography_typography": "globals\/typography?id=f9b1e57",
+                                            "_background_color": "globals\/colors?id=primary"
+                                        },
+                                        "_animation": "fadeInDown",
+                                        "_element_custom_width_tablet": {
+                                            "unit": "%",
+                                            "size": 46,
+                                            "sizes": []
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "21162ef2",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Special-menu-1.png",
+                                            "id": 181,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "-49",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_animation": "zoomIn",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "125173ec",
+                                    "settings": {
+                                        "image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Fried rice Special",
+                                        "description_text": "Lorem ipsum dolor sit amet<br>consectetur. Sed tincidunt<br>tellus aliquet at. ",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=primary",
+                                            "title_typography_typography": "globals\/typography?id=2cd3123",
+                                            "description_color": "globals\/colors?id=text",
+                                            "description_typography_typography": "globals\/typography?id=text"
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "14c08e",
+                                    "settings": {
+                                        "title": "Learn more",
+                                        "align": "center",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=accent",
+                                            "typography_typography": "globals\/typography?id=e375dc6"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "5000cf90",
+                            "settings": {
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "flex_gap": {
+                                    "column": "20",
+                                    "row": "20",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "7edc7849",
+                                    "settings": {
+                                        "title": "$69",
+                                        "align": "center",
+                                        "title_color": "#100E0D",
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "16",
+                                            "right": "35",
+                                            "bottom": "16",
+                                            "left": "35",
+                                            "isLinked": false
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 38.852
+                                        },
+                                        "_flex_align_self": "center",
+                                        "_flex_size": "none",
+                                        "_z_index": 1,
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_background_background": "classic",
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "9999",
+                                            "right": "9999",
+                                            "bottom": "9999",
+                                            "left": "9999",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e679251",
+                                            "typography_typography": "globals\/typography?id=872541b",
+                                            "_background_color": "globals\/colors?id=accent"
+                                        },
+                                        "_animation": "fadeInDown",
+                                        "_element_custom_width_tablet": {
+                                            "unit": "%",
+                                            "size": 66,
+                                            "sizes": []
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "1f61db72",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Special-menu-New.png",
+                                            "id": 211,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "-49",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_animation": "zoomIn",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "4337bb39",
+                                    "settings": {
+                                        "title": "Special fried meat",
+                                        "align": "center",
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "-80",
+                                            "bottom": "0",
+                                            "left": "-80",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_transform_rotate_3d": "yes",
+                                        "_transform_rotateX_effect": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "_transform_rotateY_effect": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "_transform_perspective_effect": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "_transform_translateX_effect": {
+                                            "unit": "px",
+                                            "size": -171,
+                                            "sizes": []
+                                        },
+                                        "_transform_translateY_effect": {
+                                            "unit": "px",
+                                            "size": -131,
+                                            "sizes": []
+                                        },
+                                        "_transform_scale_effect": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "_transform_skewX_effect": {
+                                            "unit": "px",
+                                            "size": 156,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=primary",
+                                            "typography_typography": "globals\/typography?id=1592d35"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "4ec0be15",
+                                    "settings": {
+                                        "editor": "<p>Lorem ipsum dolor sit amet consectetur. Sed tincidunt tellus aliquet at. Faucibus non et nunc ultricies sollicitudin.<\/p>",
+                                        "align": "center",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_animation": "fadeInUp",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "2e2082a",
+                                    "settings": {
+                                        "title": "Learn more",
+                                        "align": "center",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=accent",
+                                            "typography_typography": "globals\/typography?id=e375dc6"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "59069821",
+                            "settings": {
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "flex_gap": {
+                                    "column": "20",
+                                    "row": "20",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "1f402a02",
+                                    "settings": {
+                                        "title": "$12",
+                                        "align": "center",
+                                        "title_color": "#100E0D",
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "24",
+                                            "bottom": "8",
+                                            "left": "24",
+                                            "isLinked": false
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 29.053
+                                        },
+                                        "_flex_align_self": "center",
+                                        "_flex_size": "none",
+                                        "_z_index": 1,
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_background_background": "classic",
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "9999",
+                                            "right": "9999",
+                                            "bottom": "9999",
+                                            "left": "9999",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e679251",
+                                            "typography_typography": "globals\/typography?id=f9b1e57",
+                                            "_background_color": "globals\/colors?id=primary"
+                                        },
+                                        "_animation": "fadeInDown",
+                                        "_element_custom_width_tablet": {
+                                            "unit": "%",
+                                            "size": 51,
+                                            "sizes": []
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "6c8804e8",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Special-menu-2.png",
+                                            "id": 182,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "-49",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_animation": "zoomIn",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "7a4dbdd5",
+                                    "settings": {
+                                        "image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Fried rice Shrimp",
+                                        "description_text": "Lorem ipsum dolor sit amet<br>consectetur. Sed tincidunt<br>tellus aliquet at. ",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=primary",
+                                            "title_typography_typography": "globals\/typography?id=2cd3123",
+                                            "description_color": "globals\/colors?id=text",
+                                            "description_typography_typography": "globals\/typography?id=text"
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "1d38ccc1",
+                                    "settings": {
+                                        "title": "Learn more",
+                                        "align": "center",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=accent",
+                                            "typography_typography": "globals\/typography?id=e375dc6"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "69d59ed5",
+            "settings": {
+                "flex_direction": "column",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [],
+                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                "premium_tooltip_position": "top,bottom",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "top center",
+                "background_repeat": "no-repeat",
+                "background_size": "contain"
+            },
+            "elements": [
+                {
+                    "id": "646d66ac",
+                    "settings": {
+                        "flex_direction": "row",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "flex_gap": {
+                            "column": "10",
+                            "row": "10",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 10
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "70873bd6",
+                            "settings": {
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "flex_gap": {
+                                    "column": "20",
+                                    "row": "20",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "4d872a05",
+                                    "settings": {
+                                        "title": "$28",
+                                        "align": "center",
+                                        "title_color": "#100E0D",
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "24",
+                                            "bottom": "8",
+                                            "left": "24",
+                                            "isLinked": false
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 35.05
+                                        },
+                                        "_flex_align_self": "center",
+                                        "_flex_size": "none",
+                                        "_z_index": 1,
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_background_background": "classic",
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "9999",
+                                            "right": "9999",
+                                            "bottom": "9999",
+                                            "left": "9999",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e679251",
+                                            "typography_typography": "globals\/typography?id=f9b1e57",
+                                            "_background_color": "globals\/colors?id=primary"
+                                        },
+                                        "_animation": "fadeInDown",
+                                        "_element_custom_width_tablet": {
+                                            "unit": "%",
+                                            "size": 52.838
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_element_width_tablet": "initial",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "1ec67550",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Special-menu-1.png",
+                                            "id": 181,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "-49",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_animation": "zoomIn",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 80,
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "5671698d",
+                                    "settings": {
+                                        "image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Fried rice Special",
+                                        "description_text": "Lorem ipsum dolor sit amet<br>consectetur. Sed tincidunt<br>tellus aliquet at. ",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=primary",
+                                            "title_typography_typography": "globals\/typography?id=2cd3123",
+                                            "description_color": "globals\/colors?id=text",
+                                            "description_typography_typography": "globals\/typography?id=text"
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "90",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "90f4577",
+                                    "settings": {
+                                        "title": "Learn more",
+                                        "align": "center",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=accent",
+                                            "typography_typography": "globals\/typography?id=e375dc6"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "7d82db3d",
+                            "settings": {
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "flex_gap": {
+                                    "column": "20",
+                                    "row": "20",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "6b2c24bf",
+                                    "settings": {
+                                        "title": "$25",
+                                        "align": "center",
+                                        "title_color": "#100E0D",
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "24",
+                                            "bottom": "8",
+                                            "left": "24",
+                                            "isLinked": false
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 35.05
+                                        },
+                                        "_flex_align_self": "center",
+                                        "_flex_size": "none",
+                                        "_z_index": 1,
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_background_background": "classic",
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "9999",
+                                            "right": "9999",
+                                            "bottom": "9999",
+                                            "left": "9999",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e679251",
+                                            "typography_typography": "globals\/typography?id=f9b1e57",
+                                            "_background_color": "globals\/colors?id=primary"
+                                        },
+                                        "_animation": "fadeInDown",
+                                        "_element_custom_width_tablet": {
+                                            "unit": "%",
+                                            "size": 52.838
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_element_width_tablet": "initial",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "2088ec07",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Food-Menus1.png",
+                                            "id": 714,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "-49",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_animation": "zoomIn",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 80,
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "5a5dd636",
+                                    "settings": {
+                                        "image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Fried Chicken Go",
+                                        "description_text": "Lorem ipsum dolor sit amet<br>consectetur. Sed tincidunt<br>tellus aliquet at. ",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=primary",
+                                            "title_typography_typography": "globals\/typography?id=2cd3123",
+                                            "description_color": "globals\/colors?id=text",
+                                            "description_typography_typography": "globals\/typography?id=text"
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "90",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "6d0b7a8b",
+                                    "settings": {
+                                        "title": "Learn more",
+                                        "align": "center",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=accent",
+                                            "typography_typography": "globals\/typography?id=e375dc6"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "31b87d47",
+                            "settings": {
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "flex_gap": {
+                                    "column": "20",
+                                    "row": "20",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "1f54c231",
+                                    "settings": {
+                                        "title": "$32",
+                                        "align": "center",
+                                        "title_color": "#100E0D",
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "24",
+                                            "bottom": "8",
+                                            "left": "24",
+                                            "isLinked": false
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 35.05
+                                        },
+                                        "_flex_align_self": "center",
+                                        "_flex_size": "none",
+                                        "_z_index": 1,
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_background_background": "classic",
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "9999",
+                                            "right": "9999",
+                                            "bottom": "9999",
+                                            "left": "9999",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e679251",
+                                            "typography_typography": "globals\/typography?id=f9b1e57",
+                                            "_background_color": "globals\/colors?id=primary"
+                                        },
+                                        "_animation": "fadeInDown",
+                                        "_element_custom_width_tablet": {
+                                            "unit": "%",
+                                            "size": 52.838
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_element_width_tablet": "initial",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "5a1d2421",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Food-Menus2.png",
+                                            "id": 715,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "-60",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_animation": "zoomIn",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 80,
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "631718b",
+                                    "settings": {
+                                        "image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Special fried meat",
+                                        "description_text": "Lorem ipsum dolor sit amet<br>consectetur. Sed tincidunt<br>tellus aliquet at. ",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=primary",
+                                            "title_typography_typography": "globals\/typography?id=2cd3123",
+                                            "description_color": "globals\/colors?id=text",
+                                            "description_typography_typography": "globals\/typography?id=text"
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "90",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "6cffdafb",
+                                    "settings": {
+                                        "title": "Learn more",
+                                        "align": "center",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=accent",
+                                            "typography_typography": "globals\/typography?id=e375dc6"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "62c7106f",
+                            "settings": {
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "flex_gap": {
+                                    "column": "20",
+                                    "row": "20",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "5a5cc0d",
+                                    "settings": {
+                                        "title": "$12",
+                                        "align": "center",
+                                        "title_color": "#100E0D",
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "24",
+                                            "bottom": "8",
+                                            "left": "24",
+                                            "isLinked": false
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 35.05
+                                        },
+                                        "_flex_align_self": "center",
+                                        "_flex_size": "none",
+                                        "_z_index": 1,
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_background_background": "classic",
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "9999",
+                                            "right": "9999",
+                                            "bottom": "9999",
+                                            "left": "9999",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e679251",
+                                            "typography_typography": "globals\/typography?id=f9b1e57",
+                                            "_background_color": "globals\/colors?id=primary"
+                                        },
+                                        "_animation": "fadeInDown",
+                                        "_element_custom_width_tablet": {
+                                            "unit": "%",
+                                            "size": 52.838
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_element_width_tablet": "initial",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "13974d74",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Special-menu-2.png",
+                                            "id": 182,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "-49",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_animation": "zoomIn",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 80,
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "14370a11",
+                                    "settings": {
+                                        "image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Fried rice Shrimp",
+                                        "description_text": "Lorem ipsum dolor sit amet<br>consectetur. Sed tincidunt<br>tellus aliquet at. ",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=primary",
+                                            "title_typography_typography": "globals\/typography?id=2cd3123",
+                                            "description_color": "globals\/colors?id=text",
+                                            "description_typography_typography": "globals\/typography?id=text"
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "90",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "6bd45b51",
+                                    "settings": {
+                                        "title": "Learn more",
+                                        "align": "center",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=accent",
+                                            "typography_typography": "globals\/typography?id=e375dc6"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "5b23b80b",
+                    "settings": {
+                        "flex_direction": "row",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "flex_gap": {
+                            "column": "10",
+                            "row": "10",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 10
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "46285634",
+                            "settings": {
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "flex_gap": {
+                                    "column": "20",
+                                    "row": "20",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "3fb67fb0",
+                                    "settings": {
+                                        "title": "$12",
+                                        "align": "center",
+                                        "title_color": "#100E0D",
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "24",
+                                            "bottom": "8",
+                                            "left": "24",
+                                            "isLinked": false
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 35.05
+                                        },
+                                        "_flex_align_self": "center",
+                                        "_flex_size": "none",
+                                        "_z_index": 1,
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_background_background": "classic",
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "9999",
+                                            "right": "9999",
+                                            "bottom": "9999",
+                                            "left": "9999",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e679251",
+                                            "typography_typography": "globals\/typography?id=f9b1e57",
+                                            "_background_color": "globals\/colors?id=primary"
+                                        },
+                                        "_animation": "fadeInDown",
+                                        "_element_custom_width_tablet": {
+                                            "unit": "%",
+                                            "size": 52.838
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_element_width_tablet": "initial",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "544d37c0",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Special-menu-2.png",
+                                            "id": 182,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "-49",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_animation": "zoomIn",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 80,
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "429c7441",
+                                    "settings": {
+                                        "image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Fried rice Shrimp",
+                                        "description_text": "Lorem ipsum dolor sit amet<br>consectetur. Sed tincidunt<br>tellus aliquet at. ",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=primary",
+                                            "title_typography_typography": "globals\/typography?id=2cd3123",
+                                            "description_color": "globals\/colors?id=text",
+                                            "description_typography_typography": "globals\/typography?id=text"
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "90",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "61736528",
+                                    "settings": {
+                                        "title": "Learn more",
+                                        "align": "center",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=accent",
+                                            "typography_typography": "globals\/typography?id=e375dc6"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "762c23e2",
+                            "settings": {
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "flex_gap": {
+                                    "column": "20",
+                                    "row": "20",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "685522ee",
+                                    "settings": {
+                                        "title": "$25",
+                                        "align": "center",
+                                        "title_color": "#100E0D",
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "24",
+                                            "bottom": "8",
+                                            "left": "24",
+                                            "isLinked": false
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 35.05
+                                        },
+                                        "_flex_align_self": "center",
+                                        "_flex_size": "none",
+                                        "_z_index": 1,
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_background_background": "classic",
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "9999",
+                                            "right": "9999",
+                                            "bottom": "9999",
+                                            "left": "9999",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e679251",
+                                            "typography_typography": "globals\/typography?id=f9b1e57",
+                                            "_background_color": "globals\/colors?id=primary"
+                                        },
+                                        "_animation": "fadeInDown",
+                                        "_element_custom_width_tablet": {
+                                            "unit": "%",
+                                            "size": 52.838
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_element_width_tablet": "initial",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "239f1122",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Food-Menus1.png",
+                                            "id": 714,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "-49",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_animation": "zoomIn",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 80,
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "2dbee9b8",
+                                    "settings": {
+                                        "image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Fried Chicken Go",
+                                        "description_text": "Lorem ipsum dolor sit amet<br>consectetur. Sed tincidunt<br>tellus aliquet at. ",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=primary",
+                                            "title_typography_typography": "globals\/typography?id=2cd3123",
+                                            "description_color": "globals\/colors?id=text",
+                                            "description_typography_typography": "globals\/typography?id=text"
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "90",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "22da3420",
+                                    "settings": {
+                                        "title": "Learn more",
+                                        "align": "center",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=accent",
+                                            "typography_typography": "globals\/typography?id=e375dc6"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "6fa04076",
+                            "settings": {
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "flex_gap": {
+                                    "column": "20",
+                                    "row": "20",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "240105a3",
+                                    "settings": {
+                                        "title": "$32",
+                                        "align": "center",
+                                        "title_color": "#100E0D",
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "24",
+                                            "bottom": "8",
+                                            "left": "24",
+                                            "isLinked": false
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 35.05
+                                        },
+                                        "_flex_align_self": "center",
+                                        "_flex_size": "none",
+                                        "_z_index": 1,
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_background_background": "classic",
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "9999",
+                                            "right": "9999",
+                                            "bottom": "9999",
+                                            "left": "9999",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e679251",
+                                            "typography_typography": "globals\/typography?id=f9b1e57",
+                                            "_background_color": "globals\/colors?id=primary"
+                                        },
+                                        "_animation": "fadeInDown",
+                                        "_element_custom_width_tablet": {
+                                            "unit": "%",
+                                            "size": 52.838
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_element_width_tablet": "initial",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "61ce24ea",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/11\/Food-Menus2.png",
+                                            "id": 715,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "-60",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_animation": "zoomIn",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 80,
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "2bbd4029",
+                                    "settings": {
+                                        "image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Special fried meat",
+                                        "description_text": "Lorem ipsum dolor sit amet<br>consectetur. Sed tincidunt<br>tellus aliquet at. ",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=primary",
+                                            "title_typography_typography": "globals\/typography?id=2cd3123",
+                                            "description_color": "globals\/colors?id=text",
+                                            "description_typography_typography": "globals\/typography?id=text"
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "90",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "57b5f31a",
+                                    "settings": {
+                                        "title": "Learn more",
+                                        "align": "center",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=accent",
+                                            "typography_typography": "globals\/typography?id=e375dc6"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "70f040a2",
+                            "settings": {
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "flex_gap": {
+                                    "column": "20",
+                                    "row": "20",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "49bb8de4",
+                                    "settings": {
+                                        "title": "$28",
+                                        "align": "center",
+                                        "title_color": "#100E0D",
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "24",
+                                            "bottom": "8",
+                                            "left": "24",
+                                            "isLinked": false
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 35.05
+                                        },
+                                        "_flex_align_self": "center",
+                                        "_flex_size": "none",
+                                        "_z_index": 1,
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_background_background": "classic",
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "9999",
+                                            "right": "9999",
+                                            "bottom": "9999",
+                                            "left": "9999",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e679251",
+                                            "typography_typography": "globals\/typography?id=f9b1e57",
+                                            "_background_color": "globals\/colors?id=primary"
+                                        },
+                                        "_animation": "fadeInDown",
+                                        "_element_custom_width_tablet": {
+                                            "unit": "%",
+                                            "size": 52.838
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_element_width_tablet": "initial",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "35888aa",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http:\/\/kit.nirmanavisual.com\/restolux\/wp-content\/uploads\/sites\/51\/2023\/10\/Special-menu-1.png",
+                                            "id": 181,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "-49",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "_animation": "zoomIn",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 80,
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "e40dde6",
+                                    "settings": {
+                                        "image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Fried rice Special",
+                                        "description_text": "Lorem ipsum dolor sit amet<br>consectetur. Sed tincidunt<br>tellus aliquet at. ",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=primary",
+                                            "title_typography_typography": "globals\/typography?id=2cd3123",
+                                            "description_color": "globals\/colors?id=text",
+                                            "description_typography_typography": "globals\/typography?id=text"
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "90",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "3d24080e",
+                                    "settings": {
+                                        "title": "Learn more",
+                                        "align": "center",
+                                        "pa_condition_repeater": [],
+                                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                        "premium_tooltip_position": "top,bottom",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=accent",
+                                            "typography_typography": "globals\/typography?id=e375dc6"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "premium_tooltip_text_typo_line_height": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_tooltip_text_typo_word_spacing": {
+                                            "unit": "em",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

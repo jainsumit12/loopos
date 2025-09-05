@@ -1,0 +1,259 @@
+{
+    "version": "0.4",
+    "title": "2 Images and Heading Block",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-cta",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1"
+    },
+    "content": [
+        {
+            "id": "5c4c0258",
+            "settings": {
+                "gap": "no",
+                "content_position": "middle",
+                "structure": "20",
+                "padding": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": "0",
+                    "bottom": "65",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "animation": "fadeIn",
+                "animation_duration": "slow"
+            },
+            "elements": [
+                {
+                    "id": "37837b7f",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 47.845,
+                        "padding": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "15",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeIn",
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "a88f94e",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition-blog\/wp-content\/uploads\/sites\/3\/2020\/02\/spots1.png",
+                                    "id": 629
+                                },
+                                "image_size": "thumbnail",
+                                "align": "left",
+                                "motion_fx_mouseTrack_effect": "yes",
+                                "motion_fx_mouseTrack_direction": "negative"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "44d0ee2b",
+                            "settings": {
+                                "title": "Sharing the art of plant-based cooking with you...",
+                                "typography_typography": "custom",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 52,
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "502dddbf",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition-blog\/wp-content\/uploads\/sites\/3\/2020\/02\/spots2.png",
+                                    "id": 630
+                                },
+                                "image_size": "thumbnail",
+                                "align": "left"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "98bbffd",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 52.155
+                    },
+                    "elements": [
+                        {
+                            "id": "62bfa823",
+                            "settings": {
+                                "gap": "extended",
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "178d3967",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "animation": "fadeIn",
+                                        "animation_delay": 300
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "564d646d",
+                                            "settings": {
+                                                "bg_image": {
+                                                    "url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition-blog\/wp-content\/uploads\/sites\/3\/2020\/02\/recipes.jpg",
+                                                    "id": 636
+                                                },
+                                                "title": "Recipes",
+                                                "description": "For your body & mind",
+                                                "title_tag": "h4",
+                                                "button": "Explore",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": 230,
+                                                    "sizes": []
+                                                },
+                                                "vertical_position": "middle",
+                                                "image_min_height": {
+                                                    "unit": "px",
+                                                    "size": 240,
+                                                    "sizes": []
+                                                },
+                                                "title_spacing": {
+                                                    "unit": "px",
+                                                    "size": 7,
+                                                    "sizes": []
+                                                },
+                                                "content_bg_color": "#FEAA01",
+                                                "title_color": "#000000",
+                                                "description_color": "rgba(0, 0, 0, 0.74)",
+                                                "button_size": "xs",
+                                                "button_typography_typography": "custom",
+                                                "button_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 13,
+                                                    "sizes": []
+                                                },
+                                                "button_typography_font_weight": "bold",
+                                                "button_text_color": "#FFFFFF",
+                                                "button_background_color": "rgba(255, 255, 255, 0)",
+                                                "button_border_color": "rgba(255, 255, 255, 0)",
+                                                "button_hover_text_color": "#000000",
+                                                "bg_filters_css_filter": "custom",
+                                                "button_typography_font_family": "Lato"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "4687d41a",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "animation": "fadeIn",
+                                        "animation_delay": 600
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7947ec82",
+                                            "settings": {
+                                                "bg_image": {
+                                                    "url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition-blog\/wp-content\/uploads\/sites\/3\/2020\/02\/meal-plans.jpg",
+                                                    "id": 640
+                                                },
+                                                "title": "Meal Plans",
+                                                "description": "Nutrition planned for you",
+                                                "title_tag": "h4",
+                                                "button": "Explore",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": 230,
+                                                    "sizes": []
+                                                },
+                                                "vertical_position": "middle",
+                                                "image_min_height": {
+                                                    "unit": "px",
+                                                    "size": 240,
+                                                    "sizes": []
+                                                },
+                                                "title_spacing": {
+                                                    "unit": "px",
+                                                    "size": 7,
+                                                    "sizes": []
+                                                },
+                                                "content_bg_color": "#FEAA01",
+                                                "title_color": "#000000",
+                                                "description_color": "rgba(0, 0, 0, 0.74)",
+                                                "button_size": "xs",
+                                                "button_typography_typography": "custom",
+                                                "button_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 13,
+                                                    "sizes": []
+                                                },
+                                                "button_typography_font_weight": "bold",
+                                                "button_text_color": "#FFFFFF",
+                                                "button_background_color": "rgba(255, 255, 255, 0)",
+                                                "button_border_color": "rgba(255, 255, 255, 0)",
+                                                "button_hover_text_color": "#000000",
+                                                "bg_filters_css_filter": "custom",
+                                                "button_typography_font_family": "Lato"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

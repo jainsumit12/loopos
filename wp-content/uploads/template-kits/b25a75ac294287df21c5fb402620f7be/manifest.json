@@ -1,0 +1,1762 @@
+{
+    "manifest_version": "1.0.7",
+    "title": "Food And Nutrition",
+    "page_builder": "elementor",
+    "kit_version": "2.9.6",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/default-kit.png",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net",
+            "type": "section",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Form Block",
+            "screenshot": "screenshots\/contact-form-block.png",
+            "source": "templates\/contact-form-block.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/contact-form\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery Block",
+            "screenshot": "screenshots\/gallery-block.png",
+            "source": "templates\/gallery-block.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/gallery-block\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post PRO",
+            "screenshot": "screenshots\/single-post-pro.png",
+            "source": "templates\/single-post-pro.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/?elementor_library=single-post-pro",
+            "type": "single",
+            "metadata": {
+                "template_type": "single-post",
+                "elementor_pro_required": "1",
+                "include_in_zip": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.png",
+            "source": "templates\/404-page.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/?elementor_library=404",
+            "type": "single",
+            "metadata": {
+                "template_type": "single-404",
+                "elementor_pro_required": "1",
+                "include_in_zip": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header Template PRO",
+            "screenshot": "screenshots\/header-template-pro.png",
+            "source": "templates\/header-template-pro.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/?elementor_library=header-pro-2",
+            "type": "header",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer Template PRO",
+            "screenshot": "screenshots\/footer-template-pro.png",
+            "source": "templates\/footer-template-pro.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/?elementor_library=footer-pro-2",
+            "type": "footer",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header Block - Basic",
+            "screenshot": "screenshots\/header-block-basic.png",
+            "source": "templates\/header-block-basic.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/header-template-basic\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonial Carousel Block",
+            "screenshot": "screenshots\/testimonial-carousel-block.png",
+            "source": "templates\/testimonial-carousel-block.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/testimonial-carousel\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Heading Block with Color Background",
+            "screenshot": "screenshots\/heading-block-with-color-background.png",
+            "source": "templates\/heading-block-with-color-background.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/heading-with-color-background\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Image with Text Block",
+            "screenshot": "screenshots\/image-with-text-block.png",
+            "source": "templates\/image-with-text-block.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/image-with-text-block\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Heading Block",
+            "screenshot": "screenshots\/heading-block.png",
+            "source": "templates\/heading-block.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/heading\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Image with Text Block PRO",
+            "screenshot": "screenshots\/image-with-text-block-pro.png",
+            "source": "templates\/image-with-text-block-pro.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/nutrition-workshops-block\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section with Background Image and Text",
+            "screenshot": "screenshots\/section-with-background-image-and-text.png",
+            "source": "templates\/section-with-background-image-and-text.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/section-with-background-image\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Videos Block",
+            "screenshot": "screenshots\/videos-block.png",
+            "source": "templates\/videos-block.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/videos-block\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Image with Text Block 2",
+            "screenshot": "screenshots\/image-with-text-block-2.png",
+            "source": "templates\/image-with-text-block-2.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/diet-coaching-block\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Social Icons Block",
+            "screenshot": "screenshots\/social-icons-block.png",
+            "source": "templates\/social-icons-block.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/section-with-social-icons\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "2 Images and Heading Block",
+            "screenshot": "screenshots\/2-images-and-heading-block.png",
+            "source": "templates\/2-images-and-heading-block.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/2-images-and-heading-block\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Recipe Categories Block",
+            "screenshot": "screenshots\/recipe-categories-block.png",
+            "source": "templates\/recipe-categories-block.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/recipe-categories\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Newsletter Block",
+            "screenshot": "screenshots\/newsletter-block.png",
+            "source": "templates\/newsletter-block.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/newsletter\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contacts Page - PRO",
+            "screenshot": "screenshots\/contacts-page-pro.png",
+            "source": "templates\/contacts-page-pro.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/contacts\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Page - PRO",
+            "screenshot": "screenshots\/about-page-pro.png",
+            "source": "templates\/about-page-pro.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/about\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home Page 2 - Basic",
+            "screenshot": "screenshots\/home-page-2-basic.png",
+            "source": "templates\/home-page-2-basic.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/home-2-basic\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer Block - Basic",
+            "screenshot": "screenshots\/footer-block-basic.png",
+            "source": "templates\/footer-block-basic.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/footer-template-basic\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home Page 1 - PRO",
+            "screenshot": "screenshots\/home-page-1-pro.png",
+            "source": "templates\/home-page-1-pro.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/template-kit\/home-pro\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog Archive",
+            "screenshot": "screenshots\/blog-archive.png",
+            "source": "templates\/blog-archive.json",
+            "preview_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/?elementor_library=blog-archive",
+            "type": "archive",
+            "metadata": {
+                "template_type": "archive-blog",
+                "elementor_pro_required": "1",
+                "include_in_zip": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "2.8.4",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Template Kit Import",
+            "version": "1.0.1",
+            "file": "template-kit-import\/template-kit-import.php",
+            "author": "Envato"
+        }
+    ],
+    "images": [
+        {
+            "filename": "gallery-5.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/gallery-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 66231,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/4-qDs0YzJH0"
+        },
+        {
+            "filename": "gallery-6.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/gallery-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 72365,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/IvLdSWmhfVk"
+        },
+        {
+            "filename": "gallery-7.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/gallery-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 98648,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/fdlZBWIP0aM"
+        },
+        {
+            "filename": "gallery-4.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/gallery-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 59039,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/fxJTl_gDh28"
+        },
+        {
+            "filename": "gallery-2.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/gallery-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 47478,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/guJ-exiMIDg"
+        },
+        {
+            "filename": "gallery-1.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/gallery-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 123243,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/hTR1XPtTo_k"
+        },
+        {
+            "filename": "gallery-3.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/gallery-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 28884,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/F5qjHqJS6w8"
+        },
+        {
+            "filename": "gallery-8.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/gallery-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 69745,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/mmnKI8kMxpc"
+        },
+        {
+            "filename": "circles-3.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/circles-3.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post-pro.json",
+                    "name": "Single Post PRO"
+                },
+                {
+                    "source": "templates\/image-with-text-block.json",
+                    "name": "Image with Text Block"
+                },
+                {
+                    "source": "templates\/about-page-pro.json",
+                    "name": "About Page - PRO"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 3421,
+            "dimensions": [
+                243,
+                281
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "quotes-2.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/quotes-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post-pro.json",
+                    "name": "Single Post PRO"
+                },
+                {
+                    "source": "templates\/testimonial-carousel-block.json",
+                    "name": "Testimonial Carousel Block"
+                },
+                {
+                    "source": "templates\/about-page-pro.json",
+                    "name": "About Page - PRO"
+                },
+                {
+                    "source": "templates\/blog-archive.json",
+                    "name": "Blog Archive"
+                }
+            ],
+            "filesize": 10184,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/portret-zhenshiny-PUV5YEG"
+        },
+        {
+            "filename": "circles-4-1.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/circles-4-1.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post-pro.json",
+                    "name": "Single Post PRO"
+                },
+                {
+                    "source": "templates\/image-with-text-block.json",
+                    "name": "Image with Text Block"
+                },
+                {
+                    "source": "templates\/recipe-categories-block.json",
+                    "name": "Recipe Categories Block"
+                },
+                {
+                    "source": "templates\/newsletter-block.json",
+                    "name": "Newsletter Block"
+                },
+                {
+                    "source": "templates\/about-page-pro.json",
+                    "name": "About Page - PRO"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 1238,
+            "dimensions": [
+                155,
+                148
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "call-to-action-new.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/call-to-action-new-600x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post-pro.json",
+                    "name": "Single Post PRO"
+                },
+                {
+                    "source": "templates\/videos-block.json",
+                    "name": "Videos Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 42266,
+            "dimensions": [
+                686,
+                534
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/6MT4_Ut8a3Y"
+        },
+        {
+            "filename": "stripes-background-1.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/stripes-background-1-600x271.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 13866,
+            "dimensions": [
+                1920,
+                866
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "4.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/4.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 4499,
+            "dimensions": [
+                295,
+                320
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "plate-1.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/plate-1.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 57169,
+            "dimensions": [
+                417,
+                417
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "circles-6-2.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/circles-6-2.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 2812,
+            "dimensions": [
+                352,
+                364
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "circles-7-2.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/circles-7-2.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 1269,
+            "dimensions": [
+                155,
+                148
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "background.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/background-600x69.png",
+            "templates": [
+                {
+                    "source": "templates\/header-template-pro.json",
+                    "name": "Header Template PRO"
+                },
+                {
+                    "source": "templates\/header-block-basic.json",
+                    "name": "Header Block - Basic"
+                }
+            ],
+            "filesize": 11423,
+            "dimensions": [
+                1920,
+                220
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/logo-600x76.png",
+            "templates": [
+                {
+                    "source": "templates\/header-template-pro.json",
+                    "name": "Header Template PRO"
+                },
+                {
+                    "source": "templates\/header-block-basic.json",
+                    "name": "Header Block - Basic"
+                }
+            ],
+            "filesize": 45657,
+            "dimensions": [
+                1160,
+                146
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-footer.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/logo-footer.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-template-pro.json",
+                    "name": "Footer Template PRO"
+                },
+                {
+                    "source": "templates\/footer-block-basic.json",
+                    "name": "Footer Block - Basic"
+                }
+            ],
+            "filesize": 6821,
+            "dimensions": [
+                200,
+                89
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "quotes-1.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/quotes-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial-carousel-block.json",
+                    "name": "Testimonial Carousel Block"
+                },
+                {
+                    "source": "templates\/about-page-pro.json",
+                    "name": "About Page - PRO"
+                }
+            ],
+            "filesize": 14824,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/portret-veselogo-cheloveka-PLEJHBZ"
+        },
+        {
+            "filename": "quotes-3.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/quotes-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial-carousel-block.json",
+                    "name": "Testimonial Carousel Block"
+                },
+                {
+                    "source": "templates\/about-page-pro.json",
+                    "name": "About Page - PRO"
+                }
+            ],
+            "filesize": 12263,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/portret-uzhasnaya-bryunetka-zhenshina-P7ARPH7"
+        },
+        {
+            "filename": "about-1.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/about-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/image-with-text-block.json",
+                    "name": "Image with Text Block"
+                },
+                {
+                    "source": "templates\/about-page-pro.json",
+                    "name": "About Page - PRO"
+                }
+            ],
+            "filesize": 23058,
+            "dimensions": [
+                410,
+                510
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/udovletvorennaya-molodaya-zhenshina-est-salat-iz-AHMRD7E"
+        },
+        {
+            "filename": "spots2.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/spots2.png",
+            "templates": [
+                {
+                    "source": "templates\/image-with-text-block.json",
+                    "name": "Image with Text Block"
+                },
+                {
+                    "source": "templates\/about-page-pro.json",
+                    "name": "About Page - PRO"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 535,
+            "dimensions": [
+                59,
+                67
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "spots1.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/spots1.png",
+            "templates": [
+                {
+                    "source": "templates\/image-with-text-block.json",
+                    "name": "Image with Text Block"
+                },
+                {
+                    "source": "templates\/about-page-pro.json",
+                    "name": "About Page - PRO"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 477,
+            "dimensions": [
+                45,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "about-2.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/about-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/image-with-text-block.json",
+                    "name": "Image with Text Block"
+                },
+                {
+                    "source": "templates\/about-page-pro.json",
+                    "name": "About Page - PRO"
+                }
+            ],
+            "filesize": 36722,
+            "dimensions": [
+                410,
+                510
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/portret-ulybayushejsya-molodoj-pary-U4NQ6MB"
+        },
+        {
+            "filename": "about-3.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/about-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/image-with-text-block.json",
+                    "name": "Image with Text Block"
+                },
+                {
+                    "source": "templates\/about-page-pro.json",
+                    "name": "About Page - PRO"
+                }
+            ],
+            "filesize": 39045,
+            "dimensions": [
+                410,
+                510
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/jJDyk_7LXuw"
+        },
+        {
+            "filename": "about-background-1.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/about-background-1-600x313.jpg",
+            "templates": [
+                {
+                    "source": "templates\/heading-block.json",
+                    "name": "Heading Block"
+                },
+                {
+                    "source": "templates\/about-page-pro.json",
+                    "name": "About Page - PRO"
+                }
+            ],
+            "filesize": 268879,
+            "dimensions": [
+                1920,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/rD3YrnhTmf0"
+        },
+        {
+            "filename": "spots3.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/spots3.png",
+            "templates": [
+                {
+                    "source": "templates\/image-with-text-block-pro.json",
+                    "name": "Image with Text Block PRO"
+                }
+            ],
+            "filesize": 1649,
+            "dimensions": [
+                81,
+                136
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "workshops.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/workshops.jpg",
+            "templates": [
+                {
+                    "source": "templates\/image-with-text-block-pro.json",
+                    "name": "Image with Text Block PRO"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 34775,
+            "dimensions": [
+                420,
+                520
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/DXaq7QpZ2A0"
+        },
+        {
+            "filename": "ribbon.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/ribbon.png",
+            "templates": [
+                {
+                    "source": "templates\/image-with-text-block-pro.json",
+                    "name": "Image with Text Block PRO"
+                }
+            ],
+            "filesize": 3139,
+            "dimensions": [
+                167,
+                133
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "spots4.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/spots4.png",
+            "templates": [
+                {
+                    "source": "templates\/image-with-text-block-pro.json",
+                    "name": "Image with Text Block PRO"
+                }
+            ],
+            "filesize": 683,
+            "dimensions": [
+                44,
+                52
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "main-1.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/main-1-600x308.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-with-background-image-and-text.json",
+                    "name": "Section with Background Image and Text"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 279478,
+            "dimensions": [
+                1920,
+                984
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/4dQiaWKiL-Y"
+        },
+        {
+            "filename": "circles-5.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/circles-5.png",
+            "templates": [
+                {
+                    "source": "templates\/videos-block.json",
+                    "name": "Videos Block"
+                }
+            ],
+            "filesize": 9533,
+            "dimensions": [
+                349,
+                323
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-1.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/home-1-600x562.jpg",
+            "templates": [
+                {
+                    "source": "templates\/image-with-text-block-2.json",
+                    "name": "Image with Text Block 2"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 61310,
+            "dimensions": [
+                951,
+                890
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/veselaya-molodaya-zhenshina-6EM2GHP"
+        },
+        {
+            "filename": "circles-3.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/circles-3.png",
+            "templates": [
+                {
+                    "source": "templates\/image-with-text-block-2.json",
+                    "name": "Image with Text Block 2"
+                }
+            ],
+            "filesize": 8281,
+            "dimensions": [
+                243,
+                281
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "spots1.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/spots1.png",
+            "templates": [
+                {
+                    "source": "templates\/2-images-and-heading-block.json",
+                    "name": "2 Images and Heading Block"
+                }
+            ],
+            "filesize": 787,
+            "dimensions": [
+                45,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "spots2.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/spots2.png",
+            "templates": [
+                {
+                    "source": "templates\/2-images-and-heading-block.json",
+                    "name": "2 Images and Heading Block"
+                }
+            ],
+            "filesize": 1037,
+            "dimensions": [
+                59,
+                67
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "recipes.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/recipes.jpg",
+            "templates": [
+                {
+                    "source": "templates\/2-images-and-heading-block.json",
+                    "name": "2 Images and Heading Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 49630,
+            "dimensions": [
+                272,
+                240
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/RJvEWgz-sBQ"
+        },
+        {
+            "filename": "meal-plans.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/meal-plans.jpg",
+            "templates": [
+                {
+                    "source": "templates\/2-images-and-heading-block.json",
+                    "name": "2 Images and Heading Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 34843,
+            "dimensions": [
+                272,
+                240
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/P4jRJYN33wE"
+        },
+        {
+            "filename": "recipe-1.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/recipe-1.png",
+            "templates": [
+                {
+                    "source": "templates\/recipe-categories-block.json",
+                    "name": "Recipe Categories Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 105785,
+            "dimensions": [
+                362,
+                435
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/2IxTgsgFi-s"
+        },
+        {
+            "filename": "recipe-2.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/recipe-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/recipe-categories-block.json",
+                    "name": "Recipe Categories Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 96758,
+            "dimensions": [
+                362,
+                435
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/8Vs40syp6uM"
+        },
+        {
+            "filename": "recipe-6.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/recipe-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/recipe-categories-block.json",
+                    "name": "Recipe Categories Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 87921,
+            "dimensions": [
+                362,
+                435
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/6RJct18G_3I"
+        },
+        {
+            "filename": "recipe-3.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/recipe-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/recipe-categories-block.json",
+                    "name": "Recipe Categories Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 116937,
+            "dimensions": [
+                362,
+                435
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/n368kMQR1b0"
+        },
+        {
+            "filename": "Rectangle-16.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/Rectangle-16.png",
+            "templates": [
+                {
+                    "source": "templates\/recipe-categories-block.json",
+                    "name": "Recipe Categories Block"
+                }
+            ],
+            "filesize": 294104,
+            "dimensions": [
+                362,
+                435
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/uG1jwfpCRhg"
+        },
+        {
+            "filename": "recipe-5.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/recipe-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/recipe-categories-block.json",
+                    "name": "Recipe Categories Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 97573,
+            "dimensions": [
+                362,
+                435
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/EgA844eIF0I"
+        },
+        {
+            "filename": "circles-1.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/circles-1.png",
+            "templates": [
+                {
+                    "source": "templates\/recipe-categories-block.json",
+                    "name": "Recipe Categories Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 3550,
+            "dimensions": [
+                246,
+                284
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-2.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/home-2-600x329.jpg",
+            "templates": [
+                {
+                    "source": "templates\/newsletter-block.json",
+                    "name": "Newsletter Block"
+                },
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 84109,
+            "dimensions": [
+                1333,
+                730
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/schastlivaya-molodaya-krasivaya-zhenshina-9VYRSCA"
+        },
+        {
+            "filename": "contacts-background-1.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/contacts-background-1-600x313.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contacts-page-pro.json",
+                    "name": "Contacts Page - PRO"
+                }
+            ],
+            "filesize": 243698,
+            "dimensions": [
+                1920,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/C1Q3qOTlegg"
+        },
+        {
+            "filename": "circles-7.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/circles-7.png",
+            "templates": [
+                {
+                    "source": "templates\/contacts-page-pro.json",
+                    "name": "Contacts Page - PRO"
+                }
+            ],
+            "filesize": 9574,
+            "dimensions": [
+                349,
+                323
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "circles-6.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/circles-6.png",
+            "templates": [
+                {
+                    "source": "templates\/contacts-page-pro.json",
+                    "name": "Contacts Page - PRO"
+                }
+            ],
+            "filesize": 3493,
+            "dimensions": [
+                155,
+                148
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "circles-2.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/circles-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 3740,
+            "dimensions": [
+                292,
+                254
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "circles-4.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/02\/circles-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 3487,
+            "dimensions": [
+                155,
+                148
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "recipe-4.jpg",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/recipe-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 76404,
+            "dimensions": [
+                362,
+                435
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/uG1jwfpCRhg"
+        },
+        {
+            "filename": "Ellipse-1.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/Ellipse-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                }
+            ],
+            "filesize": 12040,
+            "dimensions": [
+                80,
+                81
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/portret-zhenshiny-PUV5YEG"
+        },
+        {
+            "filename": "spots3.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/spots3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 924,
+            "dimensions": [
+                81,
+                136
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ribbon_4.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/ribbon_4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 1585,
+            "dimensions": [
+                167,
+                133
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "spots4.png",
+            "thumbnail_url": "http:\/\/template-kits.cmsmasters.net\/food-and-nutrition\/wp-content\/uploads\/sites\/3\/2020\/03\/spots4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2-basic.json",
+                    "name": "Home Page 2 - Basic"
+                },
+                {
+                    "source": "templates\/home-page-1-pro.json",
+                    "name": "Home Page 1 - PRO"
+                }
+            ],
+            "filesize": 443,
+            "dimensions": [
+                44,
+                52
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

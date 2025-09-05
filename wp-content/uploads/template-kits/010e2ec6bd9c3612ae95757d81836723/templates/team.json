@@ -1,0 +1,1637 @@
+{
+    "version": "0.4",
+    "title": "Team",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "62fa6d21",
+            "settings": {
+                "background_background": "classic",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/portrait-of-happy-couple-cooking-together-in-the-kitchen-at-home.jpg",
+                    "id": 380,
+                    "alt": "Portrait of happy couple cooking together in the kitchen at home",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.6999999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "10",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "10",
+                    "right": "1",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "10",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=044b931"
+                },
+                "margin": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "margin_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "7aacadc2",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "-3",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "-3",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "-2",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "5",
+                            "isLinked": false
+                        },
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        },
+                        "animation": "fadeInRight",
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=text",
+                            "border_color": "globals\/colors?id=c79eab0"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "eb9f561",
+                            "settings": {
+                                "title": "Add Your Heading Text Here",
+                                "header_size": "h1",
+                                "__dynamic__": {
+                                    "title": "[elementor-tag id=\"3c18465\" name=\"post-title\" settings=\"%7B%7D\"]"
+                                },
+                                "__globals__": {
+                                    "title_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5d3e4748",
+                            "settings": {
+                                "title": "If you can laugh together, you can work together.",
+                                "header_size": "h4",
+                                "__globals__": {
+                                    "title_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2f250c66",
+            "settings": {
+                "padding": {
+                    "unit": "em",
+                    "top": "7",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "2",
+                    "bottom": "3",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "128d58d7",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "233436b6",
+                            "settings": {
+                                "content_width": {
+                                    "unit": "px",
+                                    "size": 720,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "5cc0e87a",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3627b6f6",
+                                            "settings": {
+                                                "title": "Meet our team",
+                                                "header_size": "h6",
+                                                "align": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3a0675bb",
+                                            "settings": {
+                                                "title": "It takes two flints to make a fire.",
+                                                "align": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "cef37cd",
+                            "settings": {
+                                "structure": "40"
+                            },
+                            "elements": [
+                                {
+                                    "id": "33460a62",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "654da86e",
+                                            "settings": {
+                                                "ekit_team_style": "overlay",
+                                                "ekit_team_image": {
+                                                    "url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_1.jpg",
+                                                    "id": 390,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "ekit_team_thumbnail_size": "full",
+                                                "ekit_team_name": "Reuben Palmer",
+                                                "ekit_team_position": "Founder",
+                                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_social_icons": [
+                                                    {
+                                                        "ekit_team_label": "Facebook",
+                                                        "_id": "ab1d517",
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Linkedin",
+                                                        "ekit_team_icons": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        },
+                                                        "_id": "4c7b50a"
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Email",
+                                                        "ekit_team_icons": {
+                                                            "value": "fas fa-envelope",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        },
+                                                        "_id": "a4a9fee"
+                                                    }
+                                                ],
+                                                "ekit_team_chose_popup": "",
+                                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_phone": "+1 (859) 254-6589",
+                                                "ekit_team_email": "info@example.com",
+                                                "ekit_team_background_content_hover_background": "classic",
+                                                "ekit_team_background_content_hover_color": "#0D0D0D80",
+                                                "_transform_rotate_popover": "transform",
+                                                "_transform_rotateZ_effect": {
+                                                    "unit": "px",
+                                                    "size": -2,
+                                                    "sizes": []
+                                                },
+                                                "_transform_rotate_popover_hover": "transform",
+                                                "_transform_rotateZ_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.100000000000000088817841970012523233890533447265625,
+                                                    "sizes": []
+                                                },
+                                                "_border_border": "solid",
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                },
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "__globals__": {
+                                                    "ekit_team_background_content_hover_color": "",
+                                                    "ekit_team_name_typography_typography": "globals\/typography?id=7044a64",
+                                                    "ekit_team_position_typography_typography": "globals\/typography?id=69c152f",
+                                                    "_border_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "15a64240",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4472b9d9",
+                                            "settings": {
+                                                "ekit_team_style": "overlay",
+                                                "ekit_team_image": {
+                                                    "url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_9.jpg",
+                                                    "id": 398,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "ekit_team_thumbnail_size": "full",
+                                                "ekit_team_name": "Danielle George",
+                                                "ekit_team_position": "Co-Founder ",
+                                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_social_icons": [
+                                                    {
+                                                        "ekit_team_label": "Facebook",
+                                                        "_id": "ab1d517",
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Linkedin",
+                                                        "ekit_team_icons": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        },
+                                                        "_id": "4c7b50a"
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Email",
+                                                        "ekit_team_icons": {
+                                                            "value": "fas fa-envelope",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        },
+                                                        "_id": "a4a9fee"
+                                                    }
+                                                ],
+                                                "ekit_team_chose_popup": "",
+                                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_phone": "+1 (859) 254-6589",
+                                                "ekit_team_email": "info@example.com",
+                                                "ekit_team_background_content_hover_background": "classic",
+                                                "ekit_team_background_content_hover_color": "#0D0D0D80",
+                                                "_transform_rotate_popover": "transform",
+                                                "_transform_rotateZ_effect": {
+                                                    "unit": "px",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "_transform_rotate_popover_hover": "transform",
+                                                "_transform_rotateZ_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.100000000000000088817841970012523233890533447265625,
+                                                    "sizes": []
+                                                },
+                                                "_border_border": "solid",
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                },
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "__globals__": {
+                                                    "ekit_team_background_content_hover_color": "",
+                                                    "ekit_team_name_typography_typography": "globals\/typography?id=7044a64",
+                                                    "ekit_team_position_typography_typography": "globals\/typography?id=69c152f",
+                                                    "_border_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "5bedd88d",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5733138e",
+                                            "settings": {
+                                                "ekit_team_style": "overlay",
+                                                "ekit_team_image": {
+                                                    "url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_8.jpg",
+                                                    "id": 397,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "ekit_team_thumbnail_size": "full",
+                                                "ekit_team_name": "Jamie Lawson",
+                                                "ekit_team_position": "Editor",
+                                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_social_icons": [
+                                                    {
+                                                        "ekit_team_label": "Facebook",
+                                                        "_id": "ab1d517",
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Linkedin",
+                                                        "ekit_team_icons": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        },
+                                                        "_id": "4c7b50a"
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Email",
+                                                        "ekit_team_icons": {
+                                                            "value": "fas fa-envelope",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        },
+                                                        "_id": "a4a9fee"
+                                                    }
+                                                ],
+                                                "ekit_team_chose_popup": "",
+                                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_phone": "+1 (859) 254-6589",
+                                                "ekit_team_email": "info@example.com",
+                                                "ekit_team_background_content_hover_background": "classic",
+                                                "ekit_team_background_content_hover_color": "#0D0D0D80",
+                                                "_transform_rotate_popover": "transform",
+                                                "_transform_rotateZ_effect": {
+                                                    "unit": "px",
+                                                    "size": -1,
+                                                    "sizes": []
+                                                },
+                                                "_transform_rotate_popover_hover": "transform",
+                                                "_transform_rotateZ_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.100000000000000088817841970012523233890533447265625,
+                                                    "sizes": []
+                                                },
+                                                "_border_border": "solid",
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                },
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "__globals__": {
+                                                    "ekit_team_background_content_hover_color": "",
+                                                    "ekit_team_name_typography_typography": "globals\/typography?id=7044a64",
+                                                    "ekit_team_position_typography_typography": "globals\/typography?id=69c152f",
+                                                    "_border_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "38979644",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "778b6044",
+                                            "settings": {
+                                                "ekit_team_style": "overlay",
+                                                "ekit_team_image": {
+                                                    "url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_4.jpg",
+                                                    "id": 393,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "ekit_team_thumbnail_size": "full",
+                                                "ekit_team_name": "Georgia Ross",
+                                                "ekit_team_position": "Editor",
+                                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_social_icons": [
+                                                    {
+                                                        "ekit_team_label": "Facebook",
+                                                        "_id": "ab1d517",
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Linkedin",
+                                                        "ekit_team_icons": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        },
+                                                        "_id": "4c7b50a"
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Email",
+                                                        "ekit_team_icons": {
+                                                            "value": "fas fa-envelope",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        },
+                                                        "_id": "a4a9fee"
+                                                    }
+                                                ],
+                                                "ekit_team_chose_popup": "",
+                                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_phone": "+1 (859) 254-6589",
+                                                "ekit_team_email": "info@example.com",
+                                                "ekit_team_background_content_hover_background": "classic",
+                                                "ekit_team_background_content_hover_color": "#0D0D0D80",
+                                                "_transform_rotate_popover": "transform",
+                                                "_transform_rotateZ_effect": {
+                                                    "unit": "px",
+                                                    "size": 3,
+                                                    "sizes": []
+                                                },
+                                                "_transform_rotate_popover_hover": "transform",
+                                                "_transform_rotateZ_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.100000000000000088817841970012523233890533447265625,
+                                                    "sizes": []
+                                                },
+                                                "_border_border": "solid",
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                },
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "__globals__": {
+                                                    "ekit_team_background_content_hover_color": "",
+                                                    "ekit_team_name_typography_typography": "globals\/typography?id=7044a64",
+                                                    "ekit_team_position_typography_typography": "globals\/typography?id=69c152f",
+                                                    "_border_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "1eecb23",
+                            "settings": {
+                                "structure": "40"
+                            },
+                            "elements": [
+                                {
+                                    "id": "7c77c8f2",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2b67a5a4",
+                                            "settings": {
+                                                "ekit_team_style": "overlay",
+                                                "ekit_team_image": {
+                                                    "url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_5.jpg",
+                                                    "id": 394,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "ekit_team_thumbnail_size": "full",
+                                                "ekit_team_name": "Alisha Nicholson",
+                                                "ekit_team_position": "Designer",
+                                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_social_icons": [
+                                                    {
+                                                        "ekit_team_label": "Facebook",
+                                                        "_id": "ab1d517",
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Linkedin",
+                                                        "ekit_team_icons": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        },
+                                                        "_id": "4c7b50a"
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Email",
+                                                        "ekit_team_icons": {
+                                                            "value": "fas fa-envelope",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        },
+                                                        "_id": "a4a9fee"
+                                                    }
+                                                ],
+                                                "ekit_team_chose_popup": "",
+                                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_phone": "+1 (859) 254-6589",
+                                                "ekit_team_email": "info@example.com",
+                                                "ekit_team_background_content_hover_background": "classic",
+                                                "ekit_team_background_content_hover_color": "#0D0D0D80",
+                                                "_transform_rotate_popover": "transform",
+                                                "_transform_rotateZ_effect": {
+                                                    "unit": "px",
+                                                    "size": -2,
+                                                    "sizes": []
+                                                },
+                                                "_transform_rotate_popover_hover": "transform",
+                                                "_transform_rotateZ_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.100000000000000088817841970012523233890533447265625,
+                                                    "sizes": []
+                                                },
+                                                "_border_border": "solid",
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                },
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "__globals__": {
+                                                    "ekit_team_background_content_hover_color": "",
+                                                    "ekit_team_name_typography_typography": "globals\/typography?id=7044a64",
+                                                    "ekit_team_position_typography_typography": "globals\/typography?id=69c152f",
+                                                    "_border_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "6c70a290",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "29629c6f",
+                                            "settings": {
+                                                "ekit_team_style": "overlay",
+                                                "ekit_team_image": {
+                                                    "url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_3.jpg",
+                                                    "id": 392,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "ekit_team_thumbnail_size": "full",
+                                                "ekit_team_name": "Josh Spencer",
+                                                "ekit_team_position": "Marketing",
+                                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_social_icons": [
+                                                    {
+                                                        "ekit_team_label": "Facebook",
+                                                        "_id": "ab1d517",
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Linkedin",
+                                                        "ekit_team_icons": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        },
+                                                        "_id": "4c7b50a"
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Email",
+                                                        "ekit_team_icons": {
+                                                            "value": "fas fa-envelope",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        },
+                                                        "_id": "a4a9fee"
+                                                    }
+                                                ],
+                                                "ekit_team_chose_popup": "",
+                                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_phone": "+1 (859) 254-6589",
+                                                "ekit_team_email": "info@example.com",
+                                                "ekit_team_background_content_hover_background": "classic",
+                                                "ekit_team_background_content_hover_color": "#0D0D0D80",
+                                                "_transform_rotate_popover": "transform",
+                                                "_transform_rotateZ_effect": {
+                                                    "unit": "px",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "_transform_rotate_popover_hover": "transform",
+                                                "_transform_rotateZ_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.100000000000000088817841970012523233890533447265625,
+                                                    "sizes": []
+                                                },
+                                                "_border_border": "solid",
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                },
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "__globals__": {
+                                                    "ekit_team_background_content_hover_color": "",
+                                                    "ekit_team_name_typography_typography": "globals\/typography?id=7044a64",
+                                                    "ekit_team_position_typography_typography": "globals\/typography?id=69c152f",
+                                                    "_border_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "921f2ef",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3272094c",
+                                            "settings": {
+                                                "ekit_team_style": "overlay",
+                                                "ekit_team_image": {
+                                                    "url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_6.jpg",
+                                                    "id": 395,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "ekit_team_thumbnail_size": "full",
+                                                "ekit_team_name": "Chelsea Martin",
+                                                "ekit_team_position": "Writer",
+                                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_social_icons": [
+                                                    {
+                                                        "ekit_team_label": "Facebook",
+                                                        "_id": "ab1d517",
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Linkedin",
+                                                        "ekit_team_icons": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        },
+                                                        "_id": "4c7b50a"
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Email",
+                                                        "ekit_team_icons": {
+                                                            "value": "fas fa-envelope",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        },
+                                                        "_id": "a4a9fee"
+                                                    }
+                                                ],
+                                                "ekit_team_chose_popup": "",
+                                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_phone": "+1 (859) 254-6589",
+                                                "ekit_team_email": "info@example.com",
+                                                "ekit_team_background_content_hover_background": "classic",
+                                                "ekit_team_background_content_hover_color": "#0D0D0D80",
+                                                "_transform_rotate_popover": "transform",
+                                                "_transform_rotateZ_effect": {
+                                                    "unit": "px",
+                                                    "size": -1,
+                                                    "sizes": []
+                                                },
+                                                "_transform_rotate_popover_hover": "transform",
+                                                "_transform_rotateZ_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.100000000000000088817841970012523233890533447265625,
+                                                    "sizes": []
+                                                },
+                                                "_border_border": "solid",
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                },
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "__globals__": {
+                                                    "ekit_team_background_content_hover_color": "",
+                                                    "ekit_team_name_typography_typography": "globals\/typography?id=7044a64",
+                                                    "ekit_team_position_typography_typography": "globals\/typography?id=69c152f",
+                                                    "_border_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "221b3307",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "661564eb",
+                                            "settings": {
+                                                "ekit_team_style": "overlay",
+                                                "ekit_team_image": {
+                                                    "url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_7.jpg",
+                                                    "id": 396,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "ekit_team_thumbnail_size": "full",
+                                                "ekit_team_name": "Nicholas Barrett",
+                                                "ekit_team_position": "Writer",
+                                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_social_icons": [
+                                                    {
+                                                        "ekit_team_label": "Facebook",
+                                                        "_id": "ab1d517",
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Linkedin",
+                                                        "ekit_team_icons": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        },
+                                                        "_id": "4c7b50a"
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Email",
+                                                        "ekit_team_icons": {
+                                                            "value": "fas fa-envelope",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "ekit_team_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=d49ac81",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=text",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=332724a",
+                                                            "ekit_team_socialmedia_icon_hover_bg_color": "globals\/colors?id=text"
+                                                        },
+                                                        "_id": "a4a9fee"
+                                                    }
+                                                ],
+                                                "ekit_team_chose_popup": "",
+                                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_phone": "+1 (859) 254-6589",
+                                                "ekit_team_email": "info@example.com",
+                                                "ekit_team_background_content_hover_background": "classic",
+                                                "ekit_team_background_content_hover_color": "#0D0D0D80",
+                                                "_transform_rotate_popover": "transform",
+                                                "_transform_rotateZ_effect": {
+                                                    "unit": "px",
+                                                    "size": 3,
+                                                    "sizes": []
+                                                },
+                                                "_transform_rotate_popover_hover": "transform",
+                                                "_transform_rotateZ_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.100000000000000088817841970012523233890533447265625,
+                                                    "sizes": []
+                                                },
+                                                "_border_border": "solid",
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                },
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "__globals__": {
+                                                    "ekit_team_background_content_hover_color": "",
+                                                    "ekit_team_name_typography_typography": "globals\/typography?id=7044a64",
+                                                    "ekit_team_position_typography_typography": "globals\/typography?id=69c152f",
+                                                    "_border_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "40d1a50a",
+            "settings": {
+                "padding": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "3",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "6232bd8d",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "360c8e22",
+                            "settings": {
+                                "structure": "20",
+                                "background_background": "classic",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=text"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "34c0fbdf",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50,
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "3",
+                                            "right": "4",
+                                            "bottom": "3",
+                                            "left": "4",
+                                            "isLinked": false
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "3",
+                                            "bottom": "2",
+                                            "left": "3",
+                                            "isLinked": false
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2034a1f6",
+                                            "settings": {
+                                                "title": "Join us",
+                                                "header_size": "h6"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3c495764",
+                                            "settings": {
+                                                "title": "Interested in join our team?"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "7eebb32c",
+                                            "settings": {
+                                                "editor": "<p>Est mi faucibus quam ac iaculis posuere per rhoncus finibus eleifend donec imperdiet augue<\/p>"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6794b039",
+                                            "settings": {
+                                                "text": "Contact Us",
+                                                "size": "md"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "216a4972",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "content_position_tablet": "bottom",
+                                        "margin": {
+                                            "unit": "em",
+                                            "top": "-6",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "em",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "45eccc40",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/point.moxcreative.com\/yumma\/wp-content\/uploads\/sites\/2\/2022\/04\/img_1.png",
+                                                    "id": 430,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
